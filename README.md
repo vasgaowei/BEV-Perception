@@ -19,6 +19,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
   - [Monocular](#monocular)
   - [Multiple Camera](#multiple-camera)
 - [BEV Segmentation](#bev-segmentation)
+  - [Lidar Camera](#lidar-camera)
   - [Monocular](#monocular)
   - [Multiple Camera](#multiple-camera)
 - [Mapping](#mapping)
@@ -73,6 +74,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - AutoAlignV2: Deformable Feature Aggregation for DynamicMulti-Modal 3D Object Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680616.pdf)[[Github]](https://github.com/zehuichen123/AutoAlignV2)
 - CenterFormer: Center-based Transformer for 3D Object Detection (ECCV 2022) [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980487.pdf)[[Github]](https://github.com/TuSimple/centerformer)
 - SpatialDETR: Robust Scalable Transformer-Based 3D Object Detection from Multi-View Camera Images with Global Cross-Sensor Attention (ECCV 2022) [[Paper]]([[https://markus-enzweiler.de/downloads/publications/ECCV2022-spatial_detr.pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990226.pdf)](https://arxiv.org/pdf/2211.14710.pdf))[[Github]](https://github.com/cgtuebingen/SpatialDETR)
+- Position Embedding Transformation for Multi-View 3D Object Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870523.pdf) [[Github]](https://github.com/megvii-research/PETR)
 - BEVDepth: Acquisition of Reliable Depth forMulti-view 3D Object Detection (AAAI 2023) [[Paper]](https://arxiv.org/abs/2206.10092) [[Github]](https://github.com/Megvii-BaseDetection/BEVDepth)
 - PolarFormer: Multi-camera 3D Object Detectionwith Polar Transformers (AAAI 2023) [[Paper]](https://arxiv.org/abs/2206.15398)[[Github]](https://github.com/fudan-zvg/PolarFormer)
 - A Simple Baseline for Multi-Camera 3D Object Detection (AAAI 2023) [[Paper]](https://arxiv.org/pdf/2208.10035.pdf)[[Github]](https://github.com/zhangyp15/SimMOD)
@@ -102,8 +104,24 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CAPE: Camera View Position Embedding for Multi-View 3D Object Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.10209.pdf) [[Github]](https://github.com/kaixinbear/CAPE)
 -  FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2301.04467.pdf) [[Github]](https://github.com/robertwyq/frustum)
 ### BEV Segmentation
+#### Lidar Camera
+- PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
+- BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2205.13542.pdf) [[Github]](https://github.com/mit-han-lab/bevfusion) [[Project]](https://bevfusion.mit.edu/)
 #### Monocular
+- Predicting Semantic Map Representations from Imagesusing Pyramid Occupancy Networks (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roddick_Predicting_Semantic_Map_Representations_From_Images_Using_Pyramid_Occupancy_Networks_CVPR_2020_paper.pdf) [[Github]](https://github.com/tom-roddick/mono-semantic-maps)
+- Projecting Your View Attentively: Monocular Road Scene Layout Estimation viaCross-view Transformation (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf) [[Github]](https://github.com/JonDoe-297/cross-view)
+- Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images (IEEE RA-L 2022) [[Paper]](https://arxiv.org/pdf/2108.03227.pdf) [[Github]](https://github.com/robot-learning-freiburg/PanopticBEV) [[Project]](http://panoptic-bev.cs.uni-freiburg.de/)
+- Translating Images into Maps (ICRA 2022) [[Paper]](https://arxiv.org/pdf/2110.00966.pdf) [[Github]](https://github.com/avishkarsaha/translating-images-into-maps)
+- BEVSegFormer: Bird’s Eye View Semantic Segmentation From ArbitraryCamera Rigs (WACV 2023) [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_BEVSegFormer_Birds_Eye_View_Semantic_Segmentation_From_Arbitrary_Camera_Rigs_WACV_2023_paper.pdf)
 - DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.08333.pdf) [[Github]](https://github.com/JiayuZou2020/DiffBEV)
+- GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610390.pdf)
+- HFT: Lifting Perspective Representations via Hybrid Feature Transformation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Github]](https://github.com/JiayuZou2020/HFT)
 #### Multiple Camera
+- Cross-view Transformers for real-time Map-view Semantic Segmentation (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf) [[Github]](https://github.com/bradyz/cross_view_transformers)
+- M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2204.05088.pdf) [[Project]](https://nvlabs.github.io/M2BEV/)
+- BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) [[Github]](https://github.com/zhangyp15/BEVerse)
+- Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2206.04584.pdf) [[Github]](https://github.com/hustvl/GKT)
+- BEVFormer: a Cutting-edge Baseline for Camera-based Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690001.pdf) [[Github]](https://github.com/fundamentalvision/BEVFormer)
+- Learning Ego 3D Representation as Ray Tracing (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860126.pdf) [[Github]](https://github.com/fudan-zvg/Ego3RT)
 ### Mapping
 ### Occupancy Prediction 
