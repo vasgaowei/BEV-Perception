@@ -4,6 +4,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 ## News
 ```
 - 2023.05.09: An initial version of recent papers or projects.
+- 2023.05.12: Adding paper for 3D object detection.
 ```
 
 ## Contents
@@ -35,6 +36,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection (IEEE TIV 2023) [[Paper]](https://arxiv.org/pdf/2208.12079.pdf)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
+- Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
 - EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.17895.pdf) [[Github]](https://github.com/hht1996ok/EA-BEV)
 - MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2209.03102.pdf) [[Github]](https://github.com/SxJyJay/MSMDFusion)
 #### Lidar
@@ -45,6 +47,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-MODNet: Monocular Camera-based Bird's Eye View Moving Object Detection for Autonomous Driving (ITSC 2021) [[Paper]](https://arxiv.org/abs/2107.04937) [[Project Page]](https://sites.google.com/view/bev-modnet)
 - Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf) [[Github]](https://github.com/TRAILab/CaDDN)
 - PersDet: Monocular 3D Detection in Perspective Bird’s-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.09394.pdf)
+- Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2205.14882.pdf)
 - Monocular 3D Object Detection with Depth from Motion (ECCV 2022) [[paper]](https://arxiv.org/pdf/2207.12988.pdf)[[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
@@ -83,11 +86,17 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (Arfxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 - Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.05970.pdf)
 - OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.05711.pdf) 
+- Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00967.pdf)
+- VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10975.pdf)
 - Object as Query: Equipping Any 2D Object Detector with 3D Detection Ability (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.02364.pdf)
+- VoxelFormer: Bird’s-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://github.com/Lizhuoling/VoxelFormer-public) [[Github]](https://arxiv.org/pdf/2304.01054.pdf)
+- TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2212.13979.pdf) [[Github]](https://github.com/ADLab3Ds/TiG-BEV)
 - CrossDTR:  Cross-view  and  Depth-guided  Transformersfor  3D  Object  Detection (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2209.13507.pdf)[[Github]](https://github.com/sty61010/CrossDTR)
 - SOLOFusion: Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection (ICLR 2023) [[paper]](https://arxiv.org/abs/2210.02443)[[Github]](https://github.com/Divadi/SOLOFusion)
 - BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection (ICLR 2023) [[Paper]](https://openreview.net/pdf?id=-2zfgNS917)[[Github]](https://github.com/zehuichen123/BEVDistill)
 - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View (CVPR 2023)[[Paper]](https://arxiv.org/pdf/2303.15083.pdf)[[Github]](https://github.com/megvii-research/CVPR2023-UniDistill)
+- Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.17297.pdf) 
+- Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.06880.pdf) [[Github]](https://github.com/PJLab-ADG/3DTrans)
 - Aedet: Azimuth-invariant multi-view 3d object detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2211.12501.pdf) [[Github]](https://github.com/fcjian/AeDet) [[Project]](https://fcjian.github.io/aedet/)
 - BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.08498.pdf) [[Github]](https://github.com/ADLab-AutoDrive/BEVHeight)
 - CAPE: Camera View Position Embedding for Multi-View 3D Object Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.10209.pdf) [[Github]](https://github.com/kaixinbear/CAPE)
