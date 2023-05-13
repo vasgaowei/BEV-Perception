@@ -29,6 +29,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
   - [Multiple Camera](#multiple-camera)
 - [Mapping](#mapping)
   - [Lidar Camera](#lidar-camera)
+  - [Monocular](#monocular)
   - [Multiple Camera](#multiple-camera)
 - [Locate](#locate)
 - [Occupancy Prediction](#occupancy-prediction)
@@ -45,6 +46,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CRAFT: Camera-Radar 3D Object Detectionwith Spatio-Contextual Fusion Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
 - Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection (IEEE TIV 2023) [[Paper]](https://arxiv.org/pdf/2208.12079.pdf)
+- CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception (ICLRW 2023) [[Paper]](https://arxiv.org/pdf/2304.00670.pdf)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -139,9 +141,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - “The Pedestrian next to the Lamppost”Adaptive Object Graphs for Better Instantaneous Mapping (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Saha_The_Pedestrian_Next_to_the_Lamppost_Adaptive_Object_Graphs_for_CVPR_2022_paper.pdf)
 - Weakly But Deeply Supervised Occlusion-Reasoned Parametric Road Layouts (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Weakly_but_Deeply_Supervised_Occlusion-Reasoned_Parametric_Road_Layouts_CVPR_2022_paper.pdf)
 - Translating Images into Maps (ICRA 2022) [[Paper]](https://arxiv.org/pdf/2110.00966.pdf) [[Github]](https://github.com/avishkarsaha/translating-images-into-maps)
+- GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610390.pdf)
+- SBEVNet: End-to-End Deep Stereo Layout Estimation (WACV 2022) [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Gupta_SBEVNet_End-to-End_Deep_Stereo_Layout_Estimation_WACV_2022_paper.pdf)
 - BEVSegFormer: Bird’s Eye View Semantic Segmentation From ArbitraryCamera Rigs (WACV 2023) [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_BEVSegFormer_Birds_Eye_View_Semantic_Segmentation_From_Arbitrary_Camera_Rigs_WACV_2023_paper.pdf)
 - DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.08333.pdf) [[Github]](https://github.com/JiayuZou2020/DiffBEV)
-- GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610390.pdf)
 - HFT: Lifting Perspective Representations via Hybrid Feature Transformation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Github]](https://github.com/JiayuZou2020/HFT)
 - SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.04233.pdf)
 - Calibration-free BEV Representation for Infrastructure Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.03583.pdf)
@@ -170,9 +173,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.09801.pdf) [[Github]](https://github.com/ChongjianGE/MetaBEV) [[Project]](https://chongjiange.github.io/metabev.html)
 - One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00525.pdf)
 - RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.06719.pdf) [[Github]](https://github.com/Daniel-xsy/RoboBEV) [[Project]](https://daniel-xsy.github.io/robobev/)
-
-### Tracking
-- Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -182,23 +182,50 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - NEAT: Neural Attention Fields for End-to-End Autonomous Driving (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2109.04456.pdf) [[Github]](https://github.com/autonomousvision/neat)
 - ST-P3: End-to-end Vision-based AutonomousDriving via Spatial-Temporal Feature Learning (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980522.pdf) [[Github]](https://github.com/OpenPerceptionX/ST-P3)
 - StretchBEV: Stretching Future InstancePrediction Spatially and Temporally (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980436.pdf) [[Github]](https://github.com/kaanakan/stretchbev) [[Projet]](https://kuis-ai.github.io/stretchbev/)
-- TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.09998.pdf) [[Github]]()
+- TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.09998.pdf) [[Github]](https://github.com/MediaBrain-SJTU/TBP-Former)
+- Planning-oriented Autonomous Driving (CVPR 2023, Occupancy Prediction) [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[Github]](https://github.com/OpenDriveLab/UniAD) [[Project]](https://opendrivelab.github.io/UniAD/)
 ### Mapping
 #### Lidar Camera
 - Probabilistic Semantic Mapping for Urban Autonomous Driving Applications (IROS 2020) [[Paper]](http://ras.papercept.net/images/temp/IROS/files/2186.pdf) [[Github]](https://github.com/MediaBrain-SJTU/TBP-Former)
 - M^2-3DLaneNet: Multi-Modal 3D Lane Detection (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2209.05996.pdf) [[Github]](https://github.com/JMoonr/mmlane)
+- HDMapNet: An Online HD Map Construction and Evaluation Framework (ICRA 2022) [[paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Github]](https://github.com/Tsinghua-MARS-Lab/HDMapNet) [[Project]](https://tsinghua-mars-lab.github.io/HDMapNet/)
 - SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2211.15656.pdf) [[Github]](https://github.com/haomo-ai/SuperFusion)
+- THMA: Tencent HD Map AI System for Creating HD Map Annotations (AAAI 2023) [[paper]](https://arxiv.org/pdf/2212.11123.pdf)
+#### Monocular
+- Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images (ICCV 2021) [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Can_Structured_Birds-Eye-View_Traffic_Scene_Understanding_From_Onboard_Images_ICCV_2021_paper.pdf) [[Github]](https://github.com/ybarancan/STSU)
+- RNGDet: Road Network Graph Detection by Transformer in Aerial Images (IEEE TGRS 2022) [[[Paper]](https://arxiv.org/pdf/2202.07824.pdf) [[Project]](https://tonyxuqaq.github.io/projects/RNGDet/)
+- Laneformer: Object-aware Row-Column Transformers for Lane Detection (AAAI 2022) [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
+- Reconstruct from Top View: A 3D Lane Detection Approach based on GeometryStructure Prior (CVPRW 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Li_Reconstruct_From_Top_View_A_3D_Lane_Detection_Approach_Based_CVPRW_2022_paper.pdf)
+- Topology Preserving Local Road Network Estimation from Single Onboard Camera Image (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Can_Topology_Preserving_Local_Road_Network_Estimation_From_Single_Onboard_Camera_CVPR_2022_paper.pdf) [[Github]](https://github.com/ybarancan/TopologicalLaneGraph)
+- CurveFormer:  3D  Lane  Detection  by  Curve  Propagation  with  CurveQueries  and  Attention (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2209.07989.pdf)
+- Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2301.02371.pdf) [[Github]](https://github.com/tusen-ai/Anchor3DLane)
 #### Multiple Camera
+- PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
 - VAD: Vectorized Scene Representation for Efficient Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.12077.pdf) [[Github]](https://github.com/hustvl/VAD)
+- InstaGraM: Instance-level Graph Modelingfor Vectorized HD Map Learning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.04470.pdf)
 - VectorMapNet: End-to-end Vectorized HD Map Learning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.08920.pdf) [[Github]](https://github.com/Mrmoore98/VectorMapNet_code) [[Project]](https://tsinghua-mars-lab.github.io/vectormapnet/)
+- Learning and Aggregating Lane Graphs for Urban Automated Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2302.06175.pdf)
 - CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation (ICRA 2023) [[paper]](https://arxiv.org/pdf/2209.07734.pdf) [[Github]](https://github.com/TonyXuQAQ/CenterLineDet)
 - Structured Modeling and Learning for Online Vectorized HD Map Construction (ICLR 2023) [[paper]](https://arxiv.org/pdf/2208.14437.pdf) [[Github]](https://github.com/hustvl/MapTR)
+### Tracking
+- Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
+- BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 ### Occupancy Prediction
+- 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+- LMSCNet: Lightweight Multiscale 3D Semantic Completion (IC 3DV 2020) [[Paper]](https://arxiv.org/pdf/2008.10559.pdf) [[[Github]](https://github.com/astra-vision/LMSCNet)
+- MonoScene: Monocular 3D Semantic Scene Completion (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.00726.pdf) [[Github]](https://github.com/astra-vision/MonoScene) [[Project]](https://astra-vision.github.io/MonoScene/)
+- OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.05316.pdf) [[Github]](https://github.com/zhangyp15/OccFormer)
+- A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10076.pdf) [[Github]](https://github.com/GANWANSHUI/SimpleOccupancy)
 - OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13540.pdf) [[Github]](https://github.com/megvii-research/OccDepth)
+- OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.03991.pdf) [[Github]](https://github.com/JeffWang987/OpenOccupancy)
+- Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.14365.pdf) [[Github]](https://github.com/Tsinghua-MARS-Lab/Occ3D) [[Project]](https://tsinghua-mars-lab.github.io/Occ3D/)
+- StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[Github]](https://github.com/Arlo0o/StereoScene)
+- SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.07817.pdf) [[Github]](https://github.com/wzzheng/TPVFormer)
+- VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
 ### Dataset
 -- Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
 ### Other
@@ -211,3 +238,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.01534.pdf)
 - NMR: Neural Manifold Representation for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2205.05551.pdf)
 - V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990106.pdf) [[Github]](https://github.com/DerrickXuNu/v2x-vit)
+- DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative3D Object Detection (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.pdf) [[Github]](https://github.com/AIR-THU/DAIR-V2X)
+- Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2203.13608.pdf) [[Github]](https://github.com/liyingying0113/rope3d-dataset-tools) [[Project]](https://thudair.baai.ac.cn/rope)
+- A Motion and Accident Prediction Benchmark for V2X Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.01168.pdf) [[Project]](https://deepaccident.github.io/)
