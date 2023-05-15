@@ -5,6 +5,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 ```
 - 2023.05.09: An initial version of recent papers or projects.
 - 2023.05.12: Adding paper for 3D object detection.
+- 2023.05.14: Adding paper for BEV segmentation, HD-map construction, Occupancy prediction and motion planning.
 ```
 
 ## Contents
@@ -149,6 +150,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - HFT: Lifting Perspective Representations via Hybrid Feature Transformation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Github]](https://github.com/JiayuZou2020/HFT)
 - SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.04233.pdf)
 - Calibration-free BEV Representation for Infrastructure Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.03583.pdf)
+- DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEVPerception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.03724.pdf) [[github]](https://github.com/YunzeMan/DualCross) [[Project]](https://yunzeman.github.io/DualCross/)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -185,6 +187,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - StretchBEV: Stretching Future InstancePrediction Spatially and Temporally (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980436.pdf) [[Github]](https://github.com/kaanakan/stretchbev) [[Projet]](https://kuis-ai.github.io/stretchbev/)
 - TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.09998.pdf) [[Github]](https://github.com/MediaBrain-SJTU/TBP-Former)
 - Planning-oriented Autonomous Driving (CVPR 2023, Occupancy Prediction) [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[Github]](https://github.com/OpenDriveLab/UniAD) [[Project]](https://opendrivelab.github.io/UniAD/)
+- Think Twice before Driving:Towards Scalable Decoders for End-to-End Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.06242.pdf) [[Github]](https://github.com/OpenDriveLab/ThinkTwice)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
