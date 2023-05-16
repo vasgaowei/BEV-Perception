@@ -233,6 +233,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VectorMapNet: End-to-end Vectorized HD Map Learning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.08920.pdf) [[Github]](https://github.com/Mrmoore98/VectorMapNet_code) [[Project]](https://tsinghua-mars-lab.github.io/vectormapnet/)
 - Road Genome: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.10440.pdf) [[Github]](https://github.com/OpenDriveLab/OpenLane-V2)
 - Topology Reasoning for Driving Scenes (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.05277.pdf) [[Github]](https://github.com/OpenDriveLab/TopoNet)
+- MV-Map: Offboard HD-Map Generation with Multi-view Consistency （Arxiv 2023） [[paper]](https://arxiv.org/pdf/2305.08851.pdf) [[Github]](https://github.com/ZiYang-xie/MV-Map)
 - CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation (ICRA 2023) [[paper]](https://arxiv.org/pdf/2209.07734.pdf) [[Github]](https://github.com/TonyXuQAQ/CenterLineDet)
 - Structured Modeling and Learning for Online Vectorized HD Map Construction (ICLR 2023) [[paper]](https://arxiv.org/pdf/2208.14437.pdf) [[Github]](https://github.com/hustvl/MapTR)
 - Neural Map Prior for Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.08481.pdf)
