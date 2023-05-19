@@ -188,6 +188,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.09998.pdf) [[Github]](https://github.com/MediaBrain-SJTU/TBP-Former)
 - Planning-oriented Autonomous Driving (CVPR 2023, Occupancy Prediction) [[paper]](https://arxiv.org/pdf/2212.10156.pdf) [[Github]](https://github.com/OpenDriveLab/UniAD) [[Project]](https://opendrivelab.github.io/UniAD/)
 - Think Twice before Driving:Towards Scalable Decoders for End-to-End Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.06242.pdf) [[Github]](https://github.com/OpenDriveLab/ThinkTwice)
+- ReasonNet: End-to-End Driving with Temporal and Global Reasoning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.10507.pdf)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
