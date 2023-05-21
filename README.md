@@ -266,6 +266,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.03651.pdf)
 - NVAutoNet: Fast and Accurate 360∘ 3D Visual Perception For Self Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.12976.pdf)
 - FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.01534.pdf)
+- Aligning Bird-Eye View Representation of PointCloud Sequences using Scene Flow (IEEE IV 2023) [[Paper]](https://arxiv.org/pdf/2305.02909.pdf) [[Github]](https://github.com/quan-dao/pc-corrector)
 - NMR: Neural Manifold Representation for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2205.05551.pdf)
 - V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990106.pdf) [[Github]](https://github.com/DerrickXuNu/v2x-vit)
 - DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative3D Object Detection (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.pdf) [[Github]](https://github.com/AIR-THU/DAIR-V2X)
