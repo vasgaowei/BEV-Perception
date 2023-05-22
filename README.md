@@ -245,6 +245,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 ### Occupancy Prediction
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+- Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
 - LMSCNet: Lightweight Multiscale 3D Semantic Completion (IC 3DV 2020) [[Paper]](https://arxiv.org/pdf/2008.10559.pdf) [[[Github]](https://github.com/astra-vision/LMSCNet)
 - MonoScene: Monocular 3D Semantic Scene Completion (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.00726.pdf) [[Github]](https://github.com/astra-vision/MonoScene) [[Project]](https://astra-vision.github.io/MonoScene/)
 - OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.05316.pdf) [[Github]](https://github.com/zhangyp15/OccFormer)
