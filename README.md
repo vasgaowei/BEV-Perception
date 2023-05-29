@@ -118,6 +118,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CAPE: Camera View Position Embedding for Multi-View 3D Object Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2303.10209.pdf) [[Github]](https://github.com/kaixinbear/CAPE)
 -  FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2301.04467.pdf) [[Github]](https://github.com/robertwyq/frustum)
 -  Sparse4D v2 Recurrent Temporal Fusion with Sparse Model （Arxiv 2023） [[Paper]](https://arxiv.org/pdf/2305.14018.pdf) [[Github]](https://github.com/linxuewu/Sparse4D)
+-  DA-BEV : Depth Aware BEV Transformer for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13002.pdf)
+-  BEV-IO: Enhancing Bird’s-Eye-View 3D Detectionwith Instance Occupancy (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.16829.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
