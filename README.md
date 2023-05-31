@@ -259,6 +259,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.03991.pdf) [[Github]](https://github.com/JeffWang987/OpenOccupancy)
 - Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.14365.pdf) [[Github]](https://github.com/Tsinghua-MARS-Lab/Occ3D) [[Project]](https://tsinghua-mars-lab.github.io/Occ3D/)
 - StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[Github]](https://github.com/Arlo0o/StereoScene)
+- Learning Occupancy for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15694.pdf) [[Github]](https://github.com/SPengLiang/OccupancyM3D)
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.07817.pdf) [[Github]](https://github.com/wzzheng/TPVFormer)
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
