@@ -258,6 +258,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13540.pdf) [[Github]](https://github.com/megvii-research/OccDepth)
 - OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.03991.pdf) [[Github]](https://github.com/JeffWang987/OpenOccupancy)
 - Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.14365.pdf) [[Github]](https://github.com/Tsinghua-MARS-Lab/Occ3D) [[Project]](https://tsinghua-mars-lab.github.io/Occ3D/)
+- Occ-BEV: Multi-Camera Unified Pre-training via 3DScene Reconstruction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.18829.pdf) [[Github]](https://github.com/chaytonmin/Occ-BEV)
 - StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[Github]](https://github.com/Arlo0o/StereoScene)
 - Learning Occupancy for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15694.pdf) [[Github]](https://github.com/SPengLiang/OccupancyM3D)
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
