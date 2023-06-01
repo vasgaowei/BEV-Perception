@@ -49,6 +49,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
 - Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection (IEEE TIV 2023) [[Paper]](https://arxiv.org/pdf/2208.12079.pdf)
 - CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception (ICLRW 2023) [[Paper]](https://arxiv.org/pdf/2304.00670.pdf)
+- RC-BEVFusion: A Plug-In Module for Radar-CameraBird’s Eye View Feature Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15883.pdf)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -261,6 +262,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Occ-BEV: Multi-Camera Unified Pre-training via 3DScene Reconstruction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.18829.pdf) [[Github]](https://github.com/chaytonmin/Occ-BEV)
 - StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[Github]](https://github.com/Arlo0o/StereoScene)
 - Learning Occupancy for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15694.pdf) [[Github]](https://github.com/SPengLiang/OccupancyM3D)
+- OVO: Open-Vocabulary Occupancy (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.16133.pdf)
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.07817.pdf) [[Github]](https://github.com/wzzheng/TPVFormer)
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
