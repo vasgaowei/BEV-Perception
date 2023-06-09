@@ -266,8 +266,11 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OVO: Open-Vocabulary Occupancy (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.16133.pdf)
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
 - Scene as Occupancy (Arxiv 2023) [[Paper]]](https://arxiv.org/pdf/2306.02851.pdf) [[Github]](https://github.com/OpenDriveLab/OccNet)
+- Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.00527.pdf) [[Github]](https://github.com/zoomin-lee/scene-scale-diffusion)
+- StereoVoxelNet:  Real-Time  Obstacle  Detection  Based  on  OccupancyVoxels  from  a  Stereo  Camera  Using  Deep  Neural  Networks (ICRA 2023) [[Paper]] (https://arxiv.org/pdf/2209.08459.pdf) [[Github]](https://github.com/RIVeR-Lab/stereovoxelnet) [[Project]](https://lhy.xyz/stereovoxelnet/)
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.07817.pdf) [[Github]](https://github.com/wzzheng/TPVFormer)
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
+- Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
 ### Dataset
 -- Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
 ### Other
