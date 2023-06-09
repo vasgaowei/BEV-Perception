@@ -245,6 +245,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation (ICRA 2023) [[paper]](https://arxiv.org/pdf/2209.07734.pdf) [[Github]](https://github.com/TonyXuQAQ/CenterLineDet)
 - Structured Modeling and Learning for Online Vectorized HD Map Construction (ICLR 2023) [[paper]](https://arxiv.org/pdf/2208.14437.pdf) [[Github]](https://github.com/hustvl/MapTR)
 - Neural Map Prior for Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.08481.pdf)
+- An Efficient Transformer for Simultaneous Learning of BEV and LaneRepresentations in 3D Lane Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.04927.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
