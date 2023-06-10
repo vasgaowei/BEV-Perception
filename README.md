@@ -182,6 +182,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.09801.pdf) [[Github]](https://github.com/ChongjianGE/MetaBEV) [[Project]](https://chongjiange.github.io/metabev.html)
 - One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00525.pdf)
 - RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.06719.pdf) [[Github]](https://github.com/Daniel-xsy/RoboBEV) [[Project]](https://daniel-xsy.github.io/robobev/)
+- X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.03810.pdf)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
