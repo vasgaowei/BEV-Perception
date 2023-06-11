@@ -43,7 +43,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Delving into the Devils of Bird’s-eye-viewPerception: A Review, Evaluation and Recipe (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2209.05324) [[Github]](https://github.com/OpenDriveLab/BEVPerception-Survey-Recipe)
 ### 3D Object Detection
 #### Radar Lidar
-- RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System (Arxiv) [[Paper]](https://arxiv.org/pdf/2211.06108.pdf)
+- RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2211.06108.pdf)
+- Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D DynamicObject Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.01438.pdf) [[Github]](https://github.com/JessieW0806/Bi-LRFusion)
 #### Radar Camera
 - CRAFT: Camera-Radar 3D Object Detectionwith Spatio-Contextual Fusion Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
@@ -248,6 +249,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Neural Map Prior for Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.08481.pdf)
 - An Efficient Transformer for Simultaneous Learning of BEV and LaneRepresentations in 3D Lane Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.04927.pdf)
 - TopoMask: Instance-Mask-Based Formulation for the Road Topology Problemvia Transformer-Based Architecture (Arxiv 2023) [[apper]](https://arxiv.org/pdf/2306.05419.pdf)
+- PolyDiffuse: Polygonal Shape Reconstruction viaGuided Set Diffusion Models (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.01461.pdf) [[Github]](https://github.com/woodfrog/poly-diffuse) [[Project]](https://poly-diffuse.github.io/)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
