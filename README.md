@@ -272,6 +272,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[Github]](https://github.com/weiyithu/SurroundOcc) [[Project]](https://weiyithu.github.io/SurroundOcc/)
 - Scene as Occupancy (Arxiv 2023) [[Paper]]](https://arxiv.org/pdf/2306.02851.pdf) [[Github]](https://github.com/OpenDriveLab/OccNet)
 - Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.00527.pdf) [[Github]](https://github.com/zoomin-lee/scene-scale-diffusion)
+- PanoOcc: Unified Occupancy Representation for Camera-based3D Panoptic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.10013.pdf) [[Github]](https://github.com/Robertwyq/PanoOcc)
 - UniOcc: Unifying Vision-Centric 3D Occupancy Predictionwith Geometric and Semantic Rendering (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09117.pdf)
 - SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving (NeurIPS 2023 D&B track) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[paper]](https://github.com/ai4ce/SSCBench)
 - StereoVoxelNet:  Real-Time  Obstacle  Detection  Based  on  OccupancyVoxels  from  a  Stereo  Camera  Using  Deep  Neural  Networks (ICRA 2023) [[Paper]] (https://arxiv.org/pdf/2209.08459.pdf) [[Github]](https://github.com/RIVeR-Lab/stereovoxelnet) [[Project]](https://lhy.xyz/stereovoxelnet/)
