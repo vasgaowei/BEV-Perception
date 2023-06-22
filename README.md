@@ -184,6 +184,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00525.pdf)
 - RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.06719.pdf) [[Github]](https://github.com/Daniel-xsy/RoboBEV) [[Project]](https://daniel-xsy.github.io/robobev/)
 - X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.03810.pdf)
+- PowerBEV: A Powerful Yet Lightweight Framework forInstance Prediction in Bird’s-Eye View (Axriv 2023) [[paper]](https://arxiv.org/pdf/2306.10761.pdf)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -250,6 +251,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - An Efficient Transformer for Simultaneous Learning of BEV and LaneRepresentations in 3D Lane Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.04927.pdf)
 - TopoMask: Instance-Mask-Based Formulation for the Road Topology Problemvia Transformer-Based Architecture (Arxiv 2023) [[apper]](https://arxiv.org/pdf/2306.05419.pdf)
 - PolyDiffuse: Polygonal Shape Reconstruction viaGuided Set Diffusion Models (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.01461.pdf) [[Github]](https://github.com/woodfrog/poly-diffuse) [[Project]](https://poly-diffuse.github.io/)
+- Online Map Vectorization for Autonomous Driving: A Rasterization Perspective (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.10502.pdf)
+- MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction (CVPR 2023 Workshop) [[Paper]](https://arxiv.org/pdf/2306.10301.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
@@ -300,3 +303,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - A Motion and Accident Prediction Benchmark for V2X Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.01168.pdf) [[Project]](https://deepaccident.github.io/)
 - V2X-Seq: A Large-Scale Sequential Dataset forVehicle-Infrastructure Cooperative Perception and Forecasting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.05938.pdf) [[Github]](https://github.com/AIR-THU/DAIR-V2X-Seq) [[Project]](https://thudair.baai.ac.cn/index)
 - BUOL: A Bottom-Up Framework with Occupancy-aware Lifting forPanoptic 3D Scene Reconstruction From A Single Image (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.00965.pdf) [[Github]](https://github.com/chtsy/buol)
+- BEVScope:  Enhancing  Self-Supervised  Depth  Estimation  LeveragingBird’s-Eye-View  in  Dynamic  Scenarios (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.11598.pdf)
+- Hidden Biases of End-to-End Driving Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.07957.pdf)
