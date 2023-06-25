@@ -282,6 +282,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.07817.pdf) [[Github]](https://github.com/wzzheng/TPVFormer)
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
 - Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
+- SSCBench: A Large-Scale 3D Semantic SceneCompletion Benchmark for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[Github]](https://github.com/ai4ce/SSCBench)
 ### Dataset
 -- Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
 ### Other
