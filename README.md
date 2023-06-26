@@ -35,6 +35,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
   - [Multiple Camera](#multiple-camera)
 - [Locate](#locate)
 - [Occupancy Prediction](#occupancy-prediction)
+- [Challenge](#challenge)
 - [Dataset](#dataset)
 - [Other](#other)
 
@@ -285,8 +286,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
 - Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
 - SSCBench: A Large-Scale 3D Semantic SceneCompletion Benchmark for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[Github]](https://github.com/ai4ce/SSCBench)
+### Challenge
+- The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 ### Dataset
--- Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
+- Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
