@@ -257,6 +257,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - NeMO: Neural Map Growing System forSpatiotemporal Fusion in Bird’s-Eye-Viewand BDD-Map Benchmark (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.04540.pdf)
 - MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction (CVPR 2023 Workshop) [[Paper]](https://arxiv.org/pdf/2306.10301.pdf)
 - Lane Graph as Path: Continuity-preserving Path-wise Modelingfor Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf)
+- End-to-End Vectorized HD-map Construction with Piecewise B ́ezier Curve (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2306.09700.pdf) [[Github]](https://github.com/er-muyue/BeMapNet)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
