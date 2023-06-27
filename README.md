@@ -207,7 +207,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - End-to-End Deep Structured Models for Drawing Crosswalks (ECCV 2018) [[Paper]](https://arxiv.org/pdf/2012.11585.pdf) 
 - Probabilistic Semantic Mapping for Urban Autonomous Driving Applications (IROS 2020) [[Paper]](http://ras.papercept.net/images/temp/IROS/files/2186.pdf) [[Github]](https://github.com/MediaBrain-SJTU/TBP-Former)
 - Convolutional Recurrent Network for Road Boundary Extraction (CVPR 2022) [[Paper]](https://nhoma.github.io/papers/road_cvpr19.pdf)
-- Lane Graph Estimation for Scene Understanding in Urban Driving (Arxiv 2021) [[Paper]](https://arxiv.org/pdf/2105.00195.pdf)
+- Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/pdf/2105.00195.pdf)
 - M^2-3DLaneNet: Multi-Modal 3D Lane Detection (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2209.05996.pdf) [[Github]](https://github.com/JMoonr/mmlane)
 - HDMapNet: An Online HD Map Construction and Evaluation Framework (ICRA 2022) [[paper]](https://arxiv.org/pdf/2107.06307.pdf) [[Github]](https://github.com/Tsinghua-MARS-Lab/HDMapNet) [[Project]](https://tsinghua-mars-lab.github.io/HDMapNet/)
 - SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2211.15656.pdf) [[Github]](https://github.com/haomo-ai/SuperFusion)
