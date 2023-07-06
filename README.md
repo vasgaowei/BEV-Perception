@@ -35,6 +35,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
   - [Multiple Camera](#multiple-camera)
 - [Locate](#locate)
 - [Occupancy Prediction](#occupancy-prediction)
+  - [Occupancy Challenge](#occupancy-challenge)
 - [Challenge](#challenge)
 - [Dataset](#dataset)
 - [Other](#other)
@@ -288,7 +289,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
 - Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
 - SSCBench: A Large-Scale 3D Semantic SceneCompletion Benchmark for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[Github]](https://github.com/ai4ce/SSCBench)
-#### Challenge
+#### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
