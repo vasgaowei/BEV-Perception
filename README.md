@@ -47,6 +47,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 #### Radar Lidar
 - RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2211.06108.pdf)
 - Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D DynamicObject Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.01438.pdf) [[Github]](https://github.com/JessieW0806/Bi-LRFusion)
+- MaskBEV: Joint Object Detection and Footprint Completion for Bird’s-eye View 3D Point Clouds (IORS 2023) [[Paper]](https://arxiv.org/pdf/2307.01864.pdf) [[Github]](https://github.com/norlab-ulaval/mask_bev)
 #### Radar Camera
 - CRAFT: Camera-Radar 3D Object Detectionwith Spatio-Contextual Fusion Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
@@ -81,7 +82,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2207.12716.pdf) [[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
 - Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object （Arxiv）[[Paper]](https://arxiv.org/pdf/2212.05505.pdf)
 - DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.07849.pdf)
-- SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detectio (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
+- SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detectio (IROS 2023) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - STS: Surround-view Temporal Stereo for Multi-view 3D Detection (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2208.10145)
 - BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.00623.pdf)
@@ -266,6 +267,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 ### Occupancy Prediction
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+- Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds (IROS 2021) [[Paper]](https://arxiv.org/pdf/2109.11453.pdf) [[Github]](https://github.com/jokester-zzz/SSA-SC)
 - Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
 - LMSCNet: Lightweight Multiscale 3D Semantic Completion (IC 3DV 2020) [[Paper]](https://arxiv.org/pdf/2008.10559.pdf) [[[Github]](https://github.com/astra-vision/LMSCNet)
 - MonoScene: Monocular 3D Semantic Scene Completion (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.00726.pdf) [[Github]](https://github.com/astra-vision/MonoScene) [[Project]](https://astra-vision.github.io/MonoScene/)
@@ -289,6 +291,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction (CVPR 2023) [[paper]](https://arxiv.org/pdf/2302.12251.pdf) [[Github]](https://github.com/NVlabs/VoxFormer)
 - Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
 - SSCBench: A Large-Scale 3D Semantic SceneCompletion Benchmark for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[Github]](https://github.com/ai4ce/SSCBench)
+- SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion (IROS 2023) [[Paper]](https://arxiv.org/pdf/2306.15349.pdf) [[Github]](https://github.com/Jieqianyu/SSC-RS)
+- Symphonize 3D Semantic Scene Completion with Contextual Instance Queries (Arxiv 2023) [[Paper]](/https://arxiv.org/pdf/2306.15670.pdf) [[Github]](https://github.com/hustvl/Symphonies)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 ### Challenge
