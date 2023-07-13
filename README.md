@@ -48,6 +48,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2211.06108.pdf)
 - Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D DynamicObject Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.01438.pdf) [[Github]](https://github.com/JessieW0806/Bi-LRFusion)
 - MaskBEV: Joint Object Detection and Footprint Completion for Bird’s-eye View 3D Point Clouds (IORS 2023) [[Paper]](https://arxiv.org/pdf/2307.01864.pdf) [[Github]](https://github.com/norlab-ulaval/mask_bev)
+- LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.00724.pdf)
 #### Radar Camera
 - CRAFT: Camera-Radar 3D Object Detectionwith Spatio-Contextual Fusion Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
