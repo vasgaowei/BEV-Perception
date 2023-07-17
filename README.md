@@ -297,6 +297,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries (Arxiv 2023) [[Paper]](/https://arxiv.org/pdf/2306.15670.pdf) [[Github]](https://github.com/hustvl/Symphonies)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
+- Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 ### Dataset
