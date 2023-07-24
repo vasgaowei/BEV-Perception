@@ -127,6 +127,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DA-BEV : Depth Aware BEV Transformer for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13002.pdf)
 -  BEV-IO: Enhancing Bird’s-Eye-View 3D Detectionwith Instance Occupancy (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.16829.pdf)
 -  OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection (Arxiv) [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
+-  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
 ### BEV Segmentation
 #### Lidar Camera
