@@ -297,6 +297,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting (CVPR 2023) [[Paper]](/https://arxiv.org/pdf/2302.13130.pdf) [[Github]](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html) [[Project]](https://github.com/tarashakhurana/4d-occ-forecasting)
 - SSCBench: A Large-Scale 3D Semantic SceneCompletion Benchmark for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[Github]](https://github.com/ai4ce/SSCBench)
 - SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion (IROS 2023) [[Paper]](https://arxiv.org/pdf/2306.15349.pdf) [[Github]](https://github.com/Jieqianyu/SSC-RS)
+- CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.07938.pdf)
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries (Arxiv 2023) [[Paper]](/https://arxiv.org/pdf/2306.15670.pdf) [[Github]](https://github.com/hustvl/Symphonies)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
