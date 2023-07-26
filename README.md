@@ -129,6 +129,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection (Arxiv) [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
 -  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
+-  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Github]](https://arxiv.org/pdf/2307.12972.pdf) [[Github]]()
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -244,6 +245,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning and Aggregating Lane Graphs for Urban Automated Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2302.06175.pdf)
 - Online Lane Graph Extraction from Onboard Video (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.00930.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
 - Video Killed the HD-Map: Predicting Driving BehaviorDirectly From Drone Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.11856.pdf)
+- Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
@@ -302,6 +304,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
+- OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios (CVPR 2023 WorkShop) [[Paper]](https://arxiv.org/pdf/2307.10934.pdf) [[Github]](https://drive.google.com/file/d/1IFUxbx1hI7iA7uXxilfq-Z0JXMGEU2Zb/view)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 ### Dataset
