@@ -108,7 +108,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (Arfxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 - Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.05970.pdf)
 - OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.05711.pdf) 
-- Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00967.pdf)
+- Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2304.00967.pdf) [[Github]](https://github.com/sense-x/hop)
 - VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10975.pdf)
 - Object as Query: Equipping Any 2D Object Detector with 3D Detection Ability (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.02364.pdf)
 - VoxelFormer: Bird’s-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://github.com/Lizhuoling/VoxelFormer-public) [[Github]](https://arxiv.org/pdf/2304.01054.pdf)
