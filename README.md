@@ -129,7 +129,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection (Arxiv) [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
 -  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
--  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Github]](https://arxiv.org/pdf/2307.12972.pdf) [[Github]]()
+-  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.12972.pdf)
+-  HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.13510.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -245,6 +246,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning and Aggregating Lane Graphs for Urban Automated Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2302.06175.pdf)
 - Online Lane Graph Extraction from Onboard Video (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.00930.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
 - Video Killed the HD-Map: Predicting Driving BehaviorDirectly From Drone Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.11856.pdf)
+- Prior Based Online Lane Graph Extraction from Single Onboard Camera Image (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.13344.pdf)
 - Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
@@ -330,3 +332,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BUOL: A Bottom-Up Framework with Occupancy-aware Lifting forPanoptic 3D Scene Reconstruction From A Single Image (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.00965.pdf) [[Github]](https://github.com/chtsy/buol)
 - BEVScope:  Enhancing  Self-Supervised  Depth  Estimation  LeveragingBird’s-Eye-View  in  Dynamic  Scenarios (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.11598.pdf)
 - Hidden Biases of End-to-End Driving Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2306.07957.pdf) [[Github]][https://github.com/autonomousvision/carla_garage]
+- EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.08991.pdf)
