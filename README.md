@@ -105,7 +105,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.02000.pdf) [[Github]](https://github.com/mystorm16/BSH-Det3D)
 - DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.16628.pdf) [[Github]](https://github.com/SmartBot-PJLab/DORT)
 - Geometric-aware Pretraining for Vision-centric 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.03105.pdf) [[Github]](https://github.com/OpenDriveLab/BEVPerception-Survey-Recipe)
-- Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (Arfxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 - Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.05970.pdf)
 - OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2301.05711.pdf) 
 - Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2304.00967.pdf) [[Github]](https://github.com/sense-x/hop)
@@ -131,6 +130,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
 -  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.12972.pdf)
 -  HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.13510.pdf)
+- Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
+-  3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.14710.pdf) [[Github]](https://github.com/drilistbox/3DPPE) [[Github]](https://github.com/FiveLu/stream3dppe)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
