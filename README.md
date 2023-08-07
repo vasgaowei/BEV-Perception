@@ -60,6 +60,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
 - EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.17895.pdf) [[Github]](https://github.com/hht1996ok/EA-BEV)
 - MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2209.03102.pdf) [[Github]](https://github.com/SxJyJay/MSMDFusion)
+- FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.16617.pdf)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 #### Monocular
