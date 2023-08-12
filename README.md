@@ -340,4 +340,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.08991.pdf)
 - End-to-end Autonomous Driving: Challenges and Frontiers (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.16927.pdf) [[Github]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
 - Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01471.pdf) [[Project]](https://waabi.ai/research/implicito)
+- QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
