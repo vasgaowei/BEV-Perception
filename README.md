@@ -210,6 +210,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Think Twice before Driving:Towards Scalable Decoders for End-to-End Autonomous Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.06242.pdf) [[Github]](https://github.com/OpenDriveLab/ThinkTwice)
 - ReasonNet: End-to-End Driving with Temporal and Global Reasoning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.10507.pdf)
 - LiDAR-BEVMTN: Real-Time LiDAR Bird’s-Eye View Multi-Task Perception Network for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.08850.pdf)
+- FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
