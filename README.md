@@ -271,6 +271,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Lane Graph as Path: Continuity-preserving Path-wise Modelingfor Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf)
 - End-to-End Vectorized HD-map Construction with Piecewise B ́ezier Curve (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2306.09700.pdf) [[Github]](https://github.com/er-muyue/BeMapNet)
 - GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.09472.pdf)
+- MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05736.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
@@ -337,3 +338,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Hidden Biases of End-to-End Driving Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2306.07957.pdf) [[Github]][https://github.com/autonomousvision/carla_garage]
 - EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.08991.pdf)
 - End-to-end Autonomous Driving: Challenges and Frontiers (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.16927.pdf) [[Github]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
+- Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01471.pdf) [[Project]](https://waabi.ai/research/implicito)
+- BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
