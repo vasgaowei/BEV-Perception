@@ -82,8 +82,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection (Arxuv 2022) [[Paper]](https://arxiv.org/pdf/2203.17054.pdf) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
 - BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stere (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2209.10248)[[Github]](https://github.com/Megvii-BaseDetection/BEVStereo)
 - MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2207.12716.pdf) [[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
-- Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object （Arxiv）[[Paper]](https://arxiv.org/pdf/2212.05505.pdf)
+- Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object （Arxiv 2022）[[Paper]](https://arxiv.org/pdf/2212.05505.pdf)
 - DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.07849.pdf)
+- Multi-Camera Calibration Free BEV Representation for 3D Object Detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2210.17252.pdf)
 - SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detectio (IROS 2023) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - STS: Surround-view Temporal Stereo for Multi-view 3D Detection (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2208.10145)
@@ -133,6 +134,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.13510.pdf)
 - Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 -  3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.14710.pdf) [[Github]](https://github.com/drilistbox/3DPPE) [[Github]](https://github.com/FiveLu/stream3dppe)
+-  FB-BEV: BEV Representation from Forward-Backward View Transformations (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.02236.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
