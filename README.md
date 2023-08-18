@@ -339,6 +339,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - V2X-Seq: A Large-Scale Sequential Dataset forVehicle-Infrastructure Cooperative Perception and Forecasting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.05938.pdf) [[Github]](https://github.com/AIR-THU/DAIR-V2X-Seq) [[Project]](https://thudair.baai.ac.cn/index)
 - BUOL: A Bottom-Up Framework with Occupancy-aware Lifting forPanoptic 3D Scene Reconstruction From A Single Image (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.00965.pdf) [[Github]](https://github.com/chtsy/buol)
 - BEVScope:  Enhancing  Self-Supervised  Depth  Estimation  LeveragingBird’s-Eye-View  in  Dynamic  Scenarios (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.11598.pdf)
+- Bird’s-Eye-View Scene Graph for Vision-Language Navigation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.04758.pdf)
 - Hidden Biases of End-to-End Driving Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2306.07957.pdf) [[Github]][https://github.com/autonomousvision/carla_garage]
 - EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.08991.pdf)
 - End-to-end Autonomous Driving: Challenges and Frontiers (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.16927.pdf) [[Github]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
