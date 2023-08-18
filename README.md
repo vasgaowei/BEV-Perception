@@ -275,6 +275,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - End-to-End Vectorized HD-map Construction with Piecewise B ́ezier Curve (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2306.09700.pdf) [[Github]](https://github.com/er-muyue/BeMapNet)
 - GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.09472.pdf)
 - MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05736.pdf)
+- LATR: 3D Lane Detection from Monocular Images with Transformer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
