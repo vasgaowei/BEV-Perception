@@ -252,6 +252,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Online Lane Graph Extraction from Onboard Video (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.00930.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
 - Video Killed the HD-Map: Predicting Driving BehaviorDirectly From Drone Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.11856.pdf)
 - Prior Based Online Lane Graph Extraction from Single Onboard Camera Image (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.13344.pdf)
+- Online Monocular Lane Mapping Using Catmull-Rom Spline (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11653.pdf) [[Github]](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping)
 - Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
@@ -276,6 +277,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.09472.pdf)
 - MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05736.pdf)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf)
+- INSIGHTMAPPER: A CLOSER LOOK AT INNER-INSTANCE INFORMATION FOR VECTORIZED HIGH-DEFINITION MAPPING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.08543.pdf) [[Project]](https://tonyxuqaq.github.io/InsightMapper/) [[Github]](https://github.com/TonyXuQAQ/InsightMapper/tree/main)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
