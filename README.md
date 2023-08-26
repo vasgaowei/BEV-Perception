@@ -71,6 +71,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PersDet: Monocular 3D Detection in Perspective Bird’s-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.09394.pdf)
 - Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2205.14882.pdf)
 - Monocular 3D Object Detection with Depth from Motion (ECCV 2022) [[paper]](https://arxiv.org/pdf/2207.12988.pdf)[[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
+- MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09421v1.pdf) [[Github]](https://github.com/cskkxjk/MonoNeRD)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -135,6 +136,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 -  3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.14710.pdf) [[Github]](https://github.com/drilistbox/3DPPE) [[Github]](https://github.com/FiveLu/stream3dppe)
 -  FB-BEV: BEV Representation from Forward-Backward View Transformations (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.02236.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
+-  QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.10515v1.pdf)
+-  SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09244v1.pdf) [[Github]](https://github.com/MCG-NJU/SparseBEV)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -144,6 +147,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.11325.pdf) 
 - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.11379.pdf) [[Github]](https://github.com/songw-zju/LiDAR2Map)
 - BEV-Guided Multi-Modality Fusion for Driving Perception (CVPR 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.pdf) [[Github]](https://yunzeman.github.io/BEVGuide)
+- UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 #### Monocular
@@ -254,6 +258,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Prior Based Online Lane Graph Extraction from Single Onboard Camera Image (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.13344.pdf)
 - Online Monocular Lane Mapping Using Catmull-Rom Spline (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11653.pdf) [[Github]](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping)
 - Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
+- LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583v1.pdf) [[Github]](https://github.com/JMoonr/LATR)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
@@ -278,6 +283,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05736.pdf)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf)
 - INSIGHTMAPPER: A CLOSER LOOK AT INNER-INSTANCE INFORMATION FOR VECTORIZED HIGH-DEFINITION MAPPING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.08543.pdf) [[Project]](https://tonyxuqaq.github.io/InsightMapper/) [[Github]](https://github.com/TonyXuQAQ/InsightMapper/tree/main)
+- StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction (WACV 2024) [[Paper]](https://arxiv.org/pdf/2308.12570.pdf) [[Github]](https://github.com/yuantianyuan01/StreamMapNet)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
@@ -348,5 +354,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVPlace: Learning LiDAR-based Place Recognition using Bird’s Eye View Images (ICCV 2023) [[paper]](https://arxiv.org/pdf/2302.14325.pdf)
 - I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird’s Eye View Projections (IROS 2023) [[Paper]](https://arxiv.org/pdf/2303.01043.pdf)
 - Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01471.pdf) [[Project]](https://waabi.ai/research/implicito)
+- BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.06530.pdf)
 - QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
