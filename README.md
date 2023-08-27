@@ -132,6 +132,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
 -  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.12972.pdf)
+-  Far3D: Expanding the Horizon for Surround-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.09616.pdf)
 -  HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.13510.pdf)
 - Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2303.11926.pdf) [[Github]](https://github.com/exiawsh/StreamPETR)
 -  3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.14710.pdf) [[Github]](https://github.com/drilistbox/3DPPE) [[Github]](https://github.com/FiveLu/stream3dppe)
