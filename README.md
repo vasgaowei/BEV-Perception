@@ -357,5 +357,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01471.pdf) [[Project]](https://waabi.ai/research/implicito)
 - BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.06530.pdf)
 - MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.12963.pdf) [[Github]](https://github.com/xiyuez2/MapPrior) [[Project]](https://mapprior.github.io/)
+- Sat2Graph: Road Graph Extraction through Graph-Tensor Encoding (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09547.pdf) [[Github]](https://github.com/songtaohe/Sat2Graph)
 - QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
