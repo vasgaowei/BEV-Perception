@@ -285,6 +285,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LATR: 3D Lane Detection from Monocular Images with Transformer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf)
 - INSIGHTMAPPER: A CLOSER LOOK AT INNER-INSTANCE INFORMATION FOR VECTORIZED HIGH-DEFINITION MAPPING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.08543.pdf) [[Project]](https://tonyxuqaq.github.io/InsightMapper/) [[Github]](https://github.com/TonyXuQAQ/InsightMapper/tree/main)
 - StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction (WACV 2024) [[Paper]](https://arxiv.org/pdf/2308.12570.pdf) [[Github]](https://github.com/yuantianyuan01/StreamMapNet)
+- PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.16477.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
