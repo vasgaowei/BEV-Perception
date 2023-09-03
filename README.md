@@ -320,6 +320,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion (IROS 2023) [[Paper]](https://arxiv.org/pdf/2306.15349.pdf) [[Github]](https://github.com/Jieqianyu/SSC-RS)
 - CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.07938.pdf)
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries (Arxiv 2023) [[Paper]](/https://arxiv.org/pdf/2306.15670.pdf) [[Github]](https://github.com/hustvl/Symphonies)
+- PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16896.pdf) [[Github]](https://github.com/wzzheng/PointOcc)
+- SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.13794.pdf) [[Github]](https://github.com/zhouqiu/SOGDet)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -359,5 +361,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.06530.pdf)
 - MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.12963.pdf) [[Github]](https://github.com/xiyuez2/MapPrior) [[Project]](https://mapprior.github.io/)
 - Sat2Graph: Road Graph Extraction through Graph-Tensor Encoding (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09547.pdf) [[Github]](https://github.com/songtaohe/Sat2Graph)
+- Occ2Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.16160.pdf)
 - QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
