@@ -320,6 +320,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion (IROS 2023) [[Paper]](https://arxiv.org/pdf/2306.15349.pdf) [[Github]](https://github.com/Jieqianyu/SSC-RS)
 - CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.07938.pdf)
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries (Arxiv 2023) [[Paper]](/https://arxiv.org/pdf/2306.15670.pdf) [[Github]](https://github.com/hustvl/Symphonies)
+- Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2206.09900.pdf)
+- UniWorld: Autonomous Driving Pre-training via World Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.07234.pdf) [[Github]](https://github.com/chaytonmin/UniWorld)
 - PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16896.pdf) [[Github]](https://github.com/wzzheng/PointOcc)
 - SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.13794.pdf) [[Github]](https://github.com/zhouqiu/SOGDet)
 #### Occupancy Challenge
