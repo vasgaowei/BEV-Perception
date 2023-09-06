@@ -174,6 +174,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - HFT: Lifting Perspective Representations via Hybrid Feature Transformation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2204.05068.pdf) [[Github]](https://github.com/JiayuZou2020/HFT)
 - SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.04233.pdf)
 - Calibration-free BEV Representation for Infrastructure Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.03583.pdf)
+- Semi-Supervised Learning for Visual Bird’s Eye View Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.14525.pdf)
 - DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEVPerception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.03724.pdf) [[github]](https://github.com/YunzeMan/DualCross) [[Project]](https://yunzeman.github.io/DualCross/)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
