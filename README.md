@@ -72,6 +72,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2205.14882.pdf)
 - Monocular 3D Object Detection with Depth from Motion (ECCV 2022) [[paper]](https://arxiv.org/pdf/2207.12988.pdf)[[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
 - MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09421v1.pdf) [[Github]](https://github.com/cskkxjk/MonoNeRD)
+- S3-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.00928.pdf) [[Github]](https://github.com/mikasa3lili/S3-MonoDETR)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -367,4 +368,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Occ2Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.16160.pdf)
 - QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.15427.pdf)
+- SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping an  Building Change Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.01907.pdf)
+- BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
