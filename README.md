@@ -262,6 +262,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Online Monocular Lane Mapping Using Catmull-Rom Spline (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11653.pdf) [[Github]](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping)
 - Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583v1.pdf) [[Github]](https://github.com/JMoonr/LATR)
+- Patched Line Segment Learning for Vector Road Mapping (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.02923.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
