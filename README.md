@@ -63,6 +63,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.16617.pdf)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
+- PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
+- V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04409.pdf)
 #### Monocular
 - Learning  2D  to  3D  Lifting  for  Object  Detection  in  3Dfor  Autonomous  Vehicles (IROS 2019) [[Paper]](https://arxiv.org/abs/1904.08494) [[Project Page](https://www.nec-labs.com/research/media-analytics/projects/learning-2d-to-3d-lifting-for-object-detection-in-3d-for-autonomous-vehicles/)
 - Orthographic Feature Transform for Monocular 3D Object Detection (BMVC 2019) [[Paper]](http://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2019-BMVC-Orthographic-Feature-Transform.pdf) [[Github]](https://github.com/tom-roddick/oft)
@@ -152,6 +154,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
+- SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
 #### Monocular
 - Learning to Look around Objects for Top-View Representations of Outdoor Scenes (ECCV 2018) [[paper]](https://arxiv.org/pdf/1803.10870.pdf)
 - A Parametric Top-View Representation of Complex Road Scenes (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.06152.pdf)
@@ -370,6 +373,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.01804.pdf)
 - Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.15427.pdf)
 - SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping an  Building Change Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.01907.pdf)
+- Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05731.pdf)
 - Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16714.pdf) 
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
