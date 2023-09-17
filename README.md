@@ -142,6 +142,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  FB-BEV: BEV Representation from Forward-Backward View Transformations (ICCV 2023) [[paper]](https://arxiv.org/pdf/2308.02236.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 -  QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.10515v1.pdf)
 -  SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09244v1.pdf) [[Github]](https://github.com/MCG-NJU/SparseBEV)
+-  NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection (ICCV 2023) [[paper]](https://arxiv.org/pdf/2307.14620.pdf) [[Github]](https://github.com/facebookresearch/NeRF-Det)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
