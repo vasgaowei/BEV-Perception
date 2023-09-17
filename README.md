@@ -148,6 +148,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
 - X-Align: Cross-Modal Cross-View Alignment for Bird’s-Eye-View Segmentation (WACV 2023) [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Borse_X-Align_Cross-Modal_Cross-View_Alignment_for_Birds-Eye-View_Segmentation_WACV_2023_paper.pdf) 
 - BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2205.13542.pdf) [[Github]](https://github.com/mit-han-lab/bevfusion) [[Project]](https://bevfusion.mit.edu/)
+  UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.10421.pdf)
 - BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.17099.pdf)
 - Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.11325.pdf) 
 - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.11379.pdf) [[Github]](https://github.com/songw-zju/LiDAR2Map)
