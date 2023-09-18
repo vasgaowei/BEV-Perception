@@ -153,6 +153,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.11325.pdf) 
 - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2304.11379.pdf) [[Github]](https://github.com/songw-zju/LiDAR2Map)
 - BEV-Guided Multi-Modality Fusion for Driving Perception (CVPR 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.pdf) [[Github]](https://yunzeman.github.io/BEVGuide)
+- FUSIONFORMER: A MULTI-SENSORY FUSION IN BIRD’S-EYE-VIEW AND TEMPORAL CONSISTENT TRANSFORMER FOR 3D OBJECTION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.05257v1.pdf)
 - UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
