@@ -379,6 +379,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.15427.pdf)
 - SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping an  Building Change Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.01907.pdf)
 - Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05731.pdf)
-- Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16714.pdf) 
+- Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16714.pdf)
+- Language Prompt for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.04379.pdf) [[Github]](https://github.com/wudongming97/Prompt4Driving)
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
