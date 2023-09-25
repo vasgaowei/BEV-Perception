@@ -335,6 +335,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UniWorld: Autonomous Driving Pre-training via World Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.07234.pdf) [[Github]](https://github.com/chaytonmin/UniWorld)
 - PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16896.pdf) [[Github]](https://github.com/wzzheng/PointOcc)
 - SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.13794.pdf) [[Github]](https://github.com/zhouqiu/SOGDet)
+- OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.08504.pdf) [[Github]](https://github.com/jypjypjypjyp/OccupancyDETR)
+- PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.12708.pdf)
 - SPOT: SCALABLE 3D PRE-TRAINING VIA OCCUPANCY PREDICTION FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.10527.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
