@@ -133,7 +133,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DA-BEV : Depth Aware BEV Transformer for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13002.pdf)
 -  BEV-IO: Enhancing Bird’s-Eye-View 3D Detectionwith Instance Occupancy (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.16829.pdf)
 -  OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection (Arxiv) [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
--  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
+-  SA-BEV: Generating Semantic-Aware Bird’s-Eye-View Feature for Multi-view 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2307.11477.pdf) [[Github]](https://github.com/mengtan00/SA-BEV)
 -  Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2306.08528.pdf)
 -  DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.12972.pdf)
 -  Far3D: Expanding the Horizon for Surround-view 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.09616.pdf)
@@ -144,6 +144,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.10515v1.pdf)
 -  SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09244v1.pdf) [[Github]](https://github.com/MCG-NJU/SparseBEV)
 -  NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection (ICCV 2023) [[paper]](https://arxiv.org/pdf/2307.14620.pdf) [[Github]](https://github.com/facebookresearch/NeRF-Det)
+-  DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation (ICCV 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_DistillBEV_Boosting_Multi-Camera_3D_Object_Detection_with_Cross-Modal_Knowledge_Distillation_ICCV_2023_paper.html)
+-  BEVHeight++: Toward Robust Visual Centric 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.16179.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -194,7 +196,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2205.09743.pdf) [[Github]](https://github.com/zhangyp15/BEVerse)
 - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2206.04584.pdf) [[Github]](https://github.com/hustvl/GKT)
 - A Simple Baseline for BEV Perception Without LiDAR (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2206.07959.pdf) [[Github]](https://github.com/aharley/simple_bev) [[Project Page]](https://simple-bev.github.io/)
-- UniFusion: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2207.08536.pdf) [[Github](https://github.com/cfzd/UniFusion)
+- UniFusion: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2207.08536.pdf) [[Github](https://github.com/cfzd/UniFusion)
 - Estimation  of  Appearance  and  Occupancy  Information  in  Bird’s  EyeView  from  Surround  Monocular  Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.04557.pdf) [[Project]](https://uditsinghparihar.github.io/APP_OCC/)
 - LaRa: Latents and Rays for Multi-CameraBird’s-Eye-View Semantic Segmentation (CORL 2022) [[Paper]](https://proceedings.mlr.press/v205/bartoccioni23a/bartoccioni23a.pdf)) [[Github]](https://github.com/valeoai/LaRa)
 - CoBEVT: Cooperative Bird’s Eye View Semantic Segmentation with Sparse Transformers (CORL 2022) [[Paper]](https://arxiv.org/pdf/2207.02202.pdf) [[Github]](https://github.com/DerrickXuNu/CoBEVT)
@@ -205,14 +207,14 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception (NIPS 2022 Workshop) [[Paper]](https://arxiv.org/pdf/2301.07870.pdf) or [[Paper]](https://arxiv.org/pdf/2301.12511.pdf) [[Github]](https://github.com/Sense-GVT/Fast-BEV)
 - BEVFormer v2: Adapting Modern Image Backbones toBird’s-Eye-View Recognition via Perspective Supervision (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2211.10439.pdf)
 - Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.04205.pdf) [[Github]](https://github.com/lynn-yu/Bi-Mapper)
-- MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2211.10593.pdf) [[Github]](https://github.com/ZRandomize/MatrixVT)
-- MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.09801.pdf) [[Github]](https://github.com/ChongjianGE/MetaBEV) [[Project]](https://chongjiange.github.io/metabev.html)
+- MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.10593.pdf) [[Github]](https://github.com/ZRandomize/MatrixVT)
+- MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation (ICCV 2023) [[paper]](https://arxiv.org/pdf/2304.09801.pdf) [[Github]](https://github.com/ChongjianGE/MetaBEV) [[Project]](https://chongjiange.github.io/metabev.html)
 - One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.00525.pdf)
 - RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2304.06719.pdf) [[Github]](https://github.com/Daniel-xsy/RoboBEV) [[Project]](https://daniel-xsy.github.io/robobev/)
 - X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.03810.pdf)
 - PowerBEV: A Powerful Yet Lightweight Framework forInstance Prediction in Bird’s-Eye View (Axriv 2023) [[paper]](https://arxiv.org/pdf/2306.10761.pdf)
-- Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird’s-Eye View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.04106.pdf)
-- Towards Viewpoint Robustness in Bird’s Eye View Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.05192.pdf) [[Project]](https://nvlabs.github.io/viewpoint-robustness/)
+- Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird’s-Eye View (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2307.04106.pdf)
+- Towards Viewpoint Robustness in Bird’s Eye View Segmentation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.05192.pdf) [[Project]](https://nvlabs.github.io/viewpoint-robustness/)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -308,7 +310,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
 - LMSCNet: Lightweight Multiscale 3D Semantic Completion (IC 3DV 2020) [[Paper]](https://arxiv.org/pdf/2008.10559.pdf) [[[Github]](https://github.com/astra-vision/LMSCNet)
 - MonoScene: Monocular 3D Semantic Scene Completion (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.00726.pdf) [[Github]](https://github.com/astra-vision/MonoScene) [[Project]](https://astra-vision.github.io/MonoScene/)
-- OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.05316.pdf) [[Github]](https://github.com/zhangyp15/OccFormer)
+- OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2304.05316.pdf) [[Github]](https://github.com/zhangyp15/OccFormer)
 - A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10076.pdf) [[Github]](https://github.com/GANWANSHUI/SimpleOccupancy)
 - OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2302.13540.pdf) [[Github]](https://github.com/megvii-research/OccDepth)
 - OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.03991.pdf) [[Github]](https://github.com/JeffWang987/OpenOccupancy)
@@ -346,6 +348,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 ### Dataset
 - Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
+### World Model
+- Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving (ICRA 2024) [[paper]](https://arxiv.org/pdf/2310.02251.pdf) [[Github]](https://github.com/llmbev/talk2bev) [[Project]](https://llmbev.github.io/talk2bev/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
