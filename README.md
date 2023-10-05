@@ -358,6 +358,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MotionLM: Multi-Agent Motion Forecasting as Language Modeling (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.16534.pdf)
 - GAIA-1: A Generative World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.17080.pdf)
 - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.09777.pdf)
+- Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.01957.pdf) [[Github]](https://github.com/wayveai/driving-with-llms)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
