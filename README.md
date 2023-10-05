@@ -398,3 +398,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Language Prompt for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.04379.pdf) [[Github]](https://github.com/wudongming97/Prompt4Driving)
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
+- A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
