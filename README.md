@@ -340,6 +340,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.08504.pdf) [[Github]](https://github.com/jypjypjypjyp/OccupancyDETR)
 - PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.12708.pdf)
 - SPOT: SCALABLE 3D PRE-TRAINING VIA OCCUPANCY PREDICTION FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.10527.pdf)
+- NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space (Arxiv 2023) [[Github]](https://github.com/Jiawei-Yao0812/NDCScene)
+- Anisotropic Convolutional Networks for 3D Semantic Scene Completion (CVPR 2020) [[Github]](https://github.com/waterljwant/SSC) [[Project]](https://waterljwant.github.io/SSC/)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
