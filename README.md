@@ -147,6 +147,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation (ICCV 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_DistillBEV_Boosting_Multi-Camera_3D_Object_Detection_with_Cross-Modal_Knowledge_Distillation_ICCV_2023_paper.html)
 -  BEVHeight++: Toward Robust Visual Centric 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.16179.pdf)
 -  UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.14516.pdf)
+-  Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.14491.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
