@@ -300,6 +300,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05736.pdf)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf)
 - INSIGHTMAPPER: A CLOSER LOOK AT INNER-INSTANCE INFORMATION FOR VECTORIZED HIGH-DEFINITION MAPPING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.08543.pdf) [[Project]](https://tonyxuqaq.github.io/InsightMapper/) [[Github]](https://github.com/TonyXuQAQ/InsightMapper/tree/main)
+- HD Map Generation from Noisy Multi-Route Vehicle Fleet Data on Highways with Expectation Maximization (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2305.02080.pdf)
 - StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction (WACV 2024) [[Paper]](https://arxiv.org/pdf/2308.12570.pdf) [[Github]](https://github.com/yuantianyuan01/StreamMapNet)
 - PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.16477.pdf)
 ### Tracking
@@ -362,6 +363,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.01957.pdf) [[Github]](https://github.com/wayveai/driving-with-llms)
 - Learning to Drive Anywhere (CORL 2023) [[Paper]](https://arxiv.org/pdf/2309.12295.pdf)
 - Language-Conditioned Path Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16893.pdf)
+- DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01412.pdf) [[Project]](https://tonyxuqaq.github.io/projects/DriveGPT4/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
