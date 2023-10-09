@@ -149,6 +149,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  BEVHeight++: Toward Robust Visual Centric 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.16179.pdf)
 -  UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.14516.pdf)
 -  Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.14491.pdf)
+-  Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection (ICCV 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01401.pdf) [[Github]](https://github.com/ymingxie/parq) [[Project]](https://ymingxie.github.io/parq/)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -364,6 +365,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning to Drive Anywhere (CORL 2023) [[Paper]](https://arxiv.org/pdf/2309.12295.pdf)
 - Language-Conditioned Path Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16893.pdf)
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01412.pdf) [[Project]](https://tonyxuqaq.github.io/projects/DriveGPT4/)
+- GPT-Driver: Learning to Drive with GPT (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01415.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
