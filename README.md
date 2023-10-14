@@ -374,6 +374,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01412.pdf) [[Project]](https://tonyxuqaq.github.io/projects/DriveGPT4/)
 - GPT-Driver: Learning to Drive with GPT (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01415.pdf)
 - LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.03026)
+- TOWARDS END-TO-END EMBODIED DECISION MAKING VIA MULTI-MODAL LARGE LANGUAGE MODEL: EXPLORATIONS WITH GPT4-VISION AND BEYOND (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02071.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
