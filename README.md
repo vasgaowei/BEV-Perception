@@ -162,6 +162,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-Guided Multi-Modality Fusion for Driving Perception (CVPR 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Man_BEV-Guided_Multi-Modality_Fusion_for_Driving_Perception_CVPR_2023_paper.pdf) [[Github]](https://yunzeman.github.io/BEVGuide)
 - FUSIONFORMER: A MULTI-SENSORY FUSION IN BIRD’S-EYE-VIEW AND TEMPORAL CONSISTENT TRANSFORMER FOR 3D OBJECTION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.05257v1.pdf)
 - UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
+- BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird’s Eye View Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.11119.pdf)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 - SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
@@ -190,6 +191,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Calibration-free BEV Representation for Infrastructure Perception (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.03583.pdf)
 - Semi-Supervised Learning for Visual Bird’s Eye View Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.14525.pdf)
 - DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEVPerception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.03724.pdf) [[github]](https://github.com/YunzeMan/DualCross) [[Project]](https://yunzeman.github.io/DualCross/)
+- CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02815.pdf)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -274,7 +276,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Video Killed the HD-Map: Predicting Driving BehaviorDirectly From Drone Images (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.11856.pdf)
 - Prior Based Online Lane Graph Extraction from Single Onboard Camera Image (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.13344.pdf)
 - Online Monocular Lane Mapping Using Catmull-Rom Spline (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.11653.pdf) [[Github]](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping)
-- Improving Online Lane Graph Extraction by Object-Lane Clustering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
+- Improving Online Lane Graph Extraction by Object-Lane Clustering (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2307.10947.pdf)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583v1.pdf) [[Github]](https://github.com/JMoonr/LATR)
 - Patched Line Segment Learning for Vector Road Mapping (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.02923.pdf)
 - Sparse Point Guided 3D Lane Detection (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Sparse_Point_Guided_3D_Lane_Detection_ICCV_2023_paper.pdf) [[Github]](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)
@@ -370,6 +372,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Language-Conditioned Path Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16893.pdf)
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01412.pdf) [[Project]](https://tonyxuqaq.github.io/projects/DriveGPT4/)
 - GPT-Driver: Learning to Drive with GPT (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01415.pdf)
+- LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.03026)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
