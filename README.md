@@ -310,6 +310,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction (WACV 2024) [[Paper]](https://arxiv.org/pdf/2308.12570.pdf) [[Github]](https://github.com/yuantianyuan01/StreamMapNet)
 - PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.16477.pdf)
 - Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach (ICCV 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Translating_Images_to_Road_Network_A_Non-Autoregressive_Sequence-to-Sequence_Approach_ICCV_2023_paper.pdf)
+- TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.06753.pdf) [[Github]](https://github.com/wudongming97/TopoMLP)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 ### Locate
