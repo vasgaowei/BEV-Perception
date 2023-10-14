@@ -77,6 +77,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Monocular 3D Object Detection with Depth from Motion (ECCV 2022) [[paper]](https://arxiv.org/pdf/2207.12988.pdf)[[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
 - MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09421v1.pdf) [[Github]](https://github.com/cskkxjk/MonoNeRD)
 - S3-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.00928.pdf) [[Github]](https://github.com/mikasa3lili/S3-MonoDETR)
+- MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.00400.pdf)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
