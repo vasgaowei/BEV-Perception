@@ -358,6 +358,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space (Arxiv 2023) [[Github]](https://github.com/Jiawei-Yao0812/NDCScene)
 - Anisotropic Convolutional Networks for 3D Semantic Scene Completion (CVPR 2020) [[Github]](https://github.com/waterljwant/SSC) [[Project]](https://waterljwant.github.io/SSC/)
 - RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.09502.pdf) [[Github]](https://github.com/pmj110119/RenderOcc)
+- LiDAR-based 4D Occupancy Completion and Forecasting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.11239.pdf) [[Github]](https://github.com/ai4ce/Occ4cast)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -378,6 +379,12 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GPT-Driver: Learning to Drive with GPT (Arxiv 2023) [[Paper]](https://browse.arxiv.org/pdf/2310.01415.pdf)
 - LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/abs/2310.03026)
 - TOWARDS END-TO-END EMBODIED DECISION MAKING VIA MULTI-MODAL LARGE LANGUAGE MODEL: EXPLORATIONS WITH GPT4-VISION AND BEYOND (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02071.pdf)
+- DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.07771.pdf)
+- UNIPAD: A UNIVERSAL PRE-TRAINING PARADIGM FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.08370.pdf) [[Github]](https://github.com/Nightmare-n/UniPAD)
+- PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.08586.pdf)
+- Uni3D: Exploring Unified 3D Representation at Scale (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.06773.pdf) [[Github]](https://github.com/baaivision/Uni3D)
+- Video Language Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Github]](https://video-language-planning.github.io/)
+- RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.10221.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
