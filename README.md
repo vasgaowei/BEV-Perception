@@ -386,6 +386,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Uni3D: Exploring Unified 3D Representation at Scale (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.06773.pdf) [[Github]](https://github.com/baaivision/Uni3D)
 - Video Language Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Github]](https://video-language-planning.github.io/)
 - RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.10221.pdf)
+- DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.12128.pdf) [[Paper]](https://github.com/aszala/DiagrammerGPT) [[Project]](https://diagrammergpt.github.io/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
