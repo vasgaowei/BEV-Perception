@@ -321,6 +321,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 ### Occupancy Prediction
+- Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Github]](https://avg.is.mpg.de/publications/occupancy-networks)
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
 - Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds (IROS 2021) [[Paper]](https://arxiv.org/pdf/2109.11453.pdf) [[Github]](https://github.com/jokester-zzz/SSA-SC)
 - Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
