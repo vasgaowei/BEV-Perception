@@ -154,6 +154,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  CoBEVFusion: Cooperative Perception with LiDAR-Camera Bird's-Eye View Fusion (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.06008.pdf)
 -  DynamicBEV: Leveraging Dynamic Queries and Temporal Context for 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.05989.pdf)
 -  TOWARDS GENERALIZABLE MULTI-CAMERA 3D OBJECT DETECTION VIA PERSPECTIVE DEBIASING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.11346.pdf)
+-  Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection (NeurIPS 2023) (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.15670.pdf) [[Github]](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -317,9 +318,11 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.06753.pdf) [[Github]](https://github.com/wudongming97/TopoMLP)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
+- EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
 ### Locate
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
+- U-BEV: Height-aware Bird’s-Eye-View Segmentation and Neural Map-based Relocalization (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.13766.pdf)
 ### Occupancy Prediction
 - Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Github]](https://avg.is.mpg.de/publications/occupancy-networks)
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
@@ -388,6 +391,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Video Language Planning (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Github]](https://video-language-planning.github.io/)
 - RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.10221.pdf)
 - DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.12128.pdf) [[Paper]](https://github.com/aszala/DiagrammerGPT) [[Project]](https://diagrammergpt.github.io/)
+- Vision Language Models in Autonomous Driving and Intelligent Transportation Systems (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.14414.pdf)
+- ADAPT: Action-aware Driving Caption Transformer (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2302.00673.pdf) [[Github]](https://github.com/jxbbb/ADAPT)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
