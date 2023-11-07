@@ -78,6 +78,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.09421v1.pdf) [[Github]](https://github.com/cskkxjk/MonoNeRD)
 - S3-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.00928.pdf) [[Github]](https://github.com/mikasa3lili/S3-MonoDETR)
 - MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.00400.pdf)
+- YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17379.pdf)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -171,6 +172,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 - SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
+- BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds (3DV 2023) [[Paper]](https://arxiv.org/pdf/2310.17281.pdf) [[Github]](https://github.com/valeoai/BEVContrast)
 #### Monocular
 - Learning to Look around Objects for Top-View Representations of Outdoor Scenes (ECCV 2018) [[paper]](https://arxiv.org/pdf/1803.10870.pdf)
 - A Parametric Top-View Representation of Complex Road Scenes (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.06152.pdf)
@@ -393,6 +395,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.12128.pdf) [[Paper]](https://github.com/aszala/DiagrammerGPT) [[Project]](https://diagrammergpt.github.io/)
 - Vision Language Models in Autonomous Driving and Intelligent Transportation Systems (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.14414.pdf)
 - ADAPT: Action-aware Driving Caption Transformer (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2302.00673.pdf) [[Github]](https://github.com/jxbbb/ADAPT)
+- Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17642.pdf) [[Project]](https://drive-anywhere.github.io/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
