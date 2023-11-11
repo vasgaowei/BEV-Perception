@@ -156,6 +156,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DynamicBEV: Leveraging Dynamic Queries and Temporal Context for 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.05989.pdf)
 -  TOWARDS GENERALIZABLE MULTI-CAMERA 3D OBJECT DETECTION VIA PERSPECTIVE DEBIASING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.11346.pdf)
 -  Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection (NeurIPS 2023) (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.15670.pdf) [[Github]](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
+-  M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.00986.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
