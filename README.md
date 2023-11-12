@@ -290,6 +290,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Sparse Point Guided 3D Lane Detection (ICCV 2023) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Sparse_Point_Guided_3D_Lane_Detection_ICCV_2023_paper.pdf) [[Github]](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)
 - Recursive Video Lane Detection (ICCV 2023) [[Paper]](https://browse.arxiv.org/pdf/2308.11106.pdf) [[Github]](https://github.com/dongkwonjin/RVLD)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf) [[Github]](https://github.com/JMoonr/LATR)
+- Occlusion-Aware 2D and 3D Centerline Detection for Urban Driving via Automatic Label Generation (ARXIV 2023) [[PAPER]](https://arxiv.org/pdf/2311.02044.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
