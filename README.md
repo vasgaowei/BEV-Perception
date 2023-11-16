@@ -63,6 +63,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2209.03102.pdf) [[Github]](https://github.com/SxJyJay/MSMDFusion)
 - FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.16617.pdf)
 - SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.07084.pdf) [[Github]](https://github.com/IranQin/SupFusion)
+- 3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.03742.pdf)
+- FUSIONVIT: HIERARCHICAL 3D OBJECT DETECTION VIA LIDAR-CAMERA VISION TRANSFORMER FUSION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.03620.pdf)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
@@ -398,6 +400,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.12128.pdf) [[Paper]](https://github.com/aszala/DiagrammerGPT) [[Project]](https://diagrammergpt.github.io/)
 - Vision Language Models in Autonomous Driving and Intelligent Transportation Systems (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.14414.pdf)
 - ADAPT: Action-aware Driving Caption Transformer (ICRA 2023) [[Paper]](https://arxiv.org/pdf/2302.00673.pdf) [[Github]](https://github.com/jxbbb/ADAPT)
+- Language Prompt for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.04379.pdf) [[Github]](https://github.com/wudongming97/Prompt4Driving)
 - Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17642.pdf) [[Project]](https://drive-anywhere.github.io/)
 - LEARNING UNSUPERVISED WORLD MODELS FOR AUTONOMOUS DRIVING VIA DISCRETE DIFFUSION (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.01017.pdf)
 ### Other
@@ -438,7 +441,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping an  Building Change Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.01907.pdf)
 - Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.05731.pdf)
 - Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16714.pdf)
-- Language Prompt for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.04379.pdf) [[Github]](https://github.com/wudongming97/Prompt4Driving)
+- PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.04501.pdf)
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
 - A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
