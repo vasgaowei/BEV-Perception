@@ -407,6 +407,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17642.pdf) [[Project]](https://drive-anywhere.github.io/)
 - LEARNING UNSUPERVISED WORLD MODELS FOR AUTONOMOUS DRIVING VIA DISCRETE DIFFUSION (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.01017.pdf)
 - ADriver-I: A General World Model for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.13549.pdf)
+- HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.05186.pdf)
+- On the Road with GPT-4V(vision): Early Explorations of Visual-Language Model on Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.05332.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
