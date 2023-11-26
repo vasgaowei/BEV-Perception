@@ -62,6 +62,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.17895.pdf) [[Github]](https://github.com/hht1996ok/EA-BEV)
 - MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2209.03102.pdf) [[Github]](https://github.com/SxJyJay/MSMDFusion)
 - FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.16617.pdf)
+- Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.07152.pdf)
 - SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.07084.pdf) [[Github]](https://github.com/IranQin/SupFusion)
 - 3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.03742.pdf)
 - FUSIONVIT: HIERARCHICAL 3D OBJECT DETECTION VIA LIDAR-CAMERA VISION TRANSFORMER FUSION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.03620.pdf)
