@@ -160,6 +160,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  TOWARDS GENERALIZABLE MULTI-CAMERA 3D OBJECT DETECTION VIA PERSPECTIVE DEBIASING (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.11346.pdf)
 -  Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection (NeurIPS 2023) (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.15670.pdf) [[Github]](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
 -  M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.00986.pdf)
+-  Sparse4D v3 Advancing End-to-End 3D Detection and Tracking (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.11722.pdf) [[Github]](https://github.com/linxuewu/Sparse4D)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -374,6 +375,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Anisotropic Convolutional Networks for 3D Semantic Scene Completion (CVPR 2020) [[Github]](https://github.com/waterljwant/SSC) [[Project]](https://waterljwant.github.io/SSC/)
 - RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.09502.pdf) [[Github]](https://github.com/pmj110119/RenderOcc)
 - LiDAR-based 4D Occupancy Completion and Forecasting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.11239.pdf) [[Github]](https://github.com/ai4ce/Occ4cast)
+- SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.11371.pdf)
+- SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12754.pdf) [[Github]](https://github.com/huang-yh/SelfOcc)
+- FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.12058.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -409,6 +413,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ADriver-I: A General World Model for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.13549.pdf)
 - HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.05186.pdf)
 - On the Road with GPT-4V(vision): Early Explorations of Visual-Language Model on Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.05332.pdf)
+- GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12631.pdf)
+- Applications of Large Scale Foundation Models for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12144v5.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
