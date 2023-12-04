@@ -233,6 +233,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PowerBEV: A Powerful Yet Lightweight Framework forInstance Prediction in Bird’s-Eye View (Axriv 2023) [[paper]](https://arxiv.org/pdf/2306.10761.pdf)
 - Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird’s-Eye View (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2307.04106.pdf)
 - Towards Viewpoint Robustness in Bird’s Eye View Segmentation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.05192.pdf) [[Project]](https://nvlabs.github.io/viewpoint-robustness/)
+- PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.10761.pdf)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
