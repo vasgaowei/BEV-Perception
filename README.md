@@ -328,6 +328,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction (CoRL 2023) [[Paper]](https://arxiv.org/pdf/2310.13378.pdf) [[Github]](https://github.com/jingy1yu/ScalableMap)
 - Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.10517.pdf)
 - Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.04079.pdf)
+- P-MAPNET: FAR-SEEING MAP CONSTRUCTOR ENHANCED BY BOTH SDMAP AND HDMAP PRIORS (ICLR 2024 submitted paper) [[Openreview]](https://openreview.net/forum?id=lgDrVM9Rpx) [[Paper]](https://openreview.net/pdf?id=lgDrVM9Rpx)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
