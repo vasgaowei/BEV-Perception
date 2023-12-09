@@ -161,6 +161,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection (NeurIPS 2023) (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.15670.pdf) [[Github]](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
 -  M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.00986.pdf)
 -  Sparse4D v3 Advancing End-to-End 3D Detection and Tracking (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.11722.pdf) [[Github]](https://github.com/linxuewu/Sparse4D)
+-  BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.01696.pdf)
+-  Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach [[Paper]](https://arxiv.org/pdf/2312.00633.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -234,6 +236,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird’s-Eye View (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2307.04106.pdf)
 - Towards Viewpoint Robustness in Bird’s Eye View Segmentation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.05192.pdf) [[Project]](https://nvlabs.github.io/viewpoint-robustness/)
 - PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.10761.pdf)
+- PointBeV: A Sparse Approach to BeV Predictions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.00703.pdf) [[Github]](https://github.com/valeoai/PointBeV)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -329,6 +332,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.10517.pdf)
 - Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.04079.pdf)
 - P-MAPNET: FAR-SEEING MAP CONSTRUCTOR ENHANCED BY BOTH SDMAP AND HDMAP PRIORS (ICLR 2024 submitted paper) [[Openreview]](https://openreview.net/forum?id=lgDrVM9Rpx) [[Paper]](https://openreview.net/pdf?id=lgDrVM9Rpx)
+- Online Vectorized HD Map Construction using Geometry (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.03341.pdf) [[Github]](https://github.com/cnzzx/GeMap)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -380,6 +384,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.11371.pdf)
 - SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12754.pdf) [[Github]](https://github.com/huang-yh/SelfOcc)
 - FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.12058.pdf)
+- Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17663.pdf) [[Github]](https://github.com/haomo-ai/Cam4DOcc)
+- OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[Github]](https://github.com/wzzheng/OccWorld)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -417,6 +423,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - On the Road with GPT-4V(vision): Early Explorations of Visual-Language Model on Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.05332.pdf)
 - GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12631.pdf)
 - Applications of Large Scale Foundation Models for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.12144v5.pdf)
+- Dolphins: Multimodal Language Model for Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.00438.pdf) [[Project]](https://vlm-driver.github.io/)
+- Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17918.pdf) [[Github]](https://github.com/BraveGroup/Drive-WM) [[Project]](https://drive-wm.github.io/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -437,7 +445,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVBert: Multimodal Map Pre-training for Language-guided Navigation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2212.04385.pdf)
 - V2X-Seq: A Large-Scale Sequential Dataset forVehicle-Infrastructure Cooperative Perception and Forecasting (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.05938.pdf) [[Github]](https://github.com/AIR-THU/DAIR-V2X-Seq) [[Project]](https://thudair.baai.ac.cn/index)
 - BUOL: A Bottom-Up Framework with Occupancy-aware Lifting forPanoptic 3D Scene Reconstruction From A Single Image (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.00965.pdf) [[Github]](https://github.com/chtsy/buol)
-- BEVScope:  Enhancing  Self-Supervised  Depth  Estimation  LeveragingBird’s-Eye-View  in  Dynamic  Scenarios (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.11598.pdf)
+- BEVScope:  Enhancing  Self-Supervised  Depth  Estimation  Leveraging Bird’s-Eye-View  in  Dynamic  Scenarios (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.11598.pdf)
 - Bird’s-Eye-View Scene Graph for Vision-Language Navigation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.04758.pdf)
 - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13398.pdf)
 - Hidden Biases of End-to-End Driving Models (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2306.07957.pdf) [[Github]][https://github.com/autonomousvision/carla_garage]
