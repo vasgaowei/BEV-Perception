@@ -386,6 +386,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.12058.pdf)
 - Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17663.pdf) [[Github]](https://github.com/haomo-ai/Cam4DOcc)
 - OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[Github]](https://github.com/wzzheng/OccWorld)
+- DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.17084.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
