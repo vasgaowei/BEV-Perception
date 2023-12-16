@@ -163,6 +163,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Sparse4D v3 Advancing End-to-End 3D Detection and Tracking (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.11722.pdf) [[Github]](https://github.com/linxuewu/Sparse4D)
 -  BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.01696.pdf)
 -  Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach [[Paper]](https://arxiv.org/pdf/2312.00633.pdf)
+-  Residual Graph Convolutional Network for Bird”s-Eye-View Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.04044.pdf)
+-  
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -388,6 +390,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[Github]](https://github.com/wzzheng/OccWorld)
 - DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.17084.pdf)
 - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10076.pdf) [[Github]](https://github.com/GANWANSHUI/SimpleOccupancy)
+- OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03774.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
