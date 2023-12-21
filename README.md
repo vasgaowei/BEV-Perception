@@ -391,6 +391,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.17084.pdf)
 - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10076.pdf) [[Github]](https://github.com/GANWANSHUI/SimpleOccupancy)
 - OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03774.pdf)
+- COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
