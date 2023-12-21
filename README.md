@@ -392,6 +392,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.10076.pdf) [[Github]](https://github.com/GANWANSHUI/SimpleOccupancy)
 - OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03774.pdf)
 - COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
+- OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.09243.pdf) [[Github]](https://github.com/LinShan-Bin/OccNeRF)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -433,6 +434,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17918.pdf) [[Github]](https://github.com/BraveGroup/Drive-WM) [[Project]](https://drive-wm.github.io/)
 - Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving? (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03031.pdf) [[Github]](https://github.com/NVlabs/BEV-Planner)
 - NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.06352.pdf) [[Github]](https//github.com/turingmotors/NuScenes-MQA)
+- DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.09245.pdf) [[[Github]](https://github.com/OpenGVLab/DriveMLM) 
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
