@@ -432,6 +432,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Dolphins: Multimodal Language Model for Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.00438.pdf) [[Project]](https://vlm-driver.github.io/)
 - Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17918.pdf) [[Github]](https://github.com/BraveGroup/Drive-WM) [[Project]](https://drive-wm.github.io/)
 - Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving? (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03031.pdf) [[Github]](https://github.com/NVlabs/BEV-Planner)
+- NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.06352.pdf) [[Github]](https//github.com/turingmotors/NuScenes-MQA)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
