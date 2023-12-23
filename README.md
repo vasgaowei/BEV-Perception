@@ -434,7 +434,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.17918.pdf) [[Github]](https://github.com/BraveGroup/Drive-WM) [[Project]](https://drive-wm.github.io/)
 - Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving? (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03031.pdf) [[Github]](https://github.com/NVlabs/BEV-Planner)
 - NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.06352.pdf) [[Github]](https//github.com/turingmotors/NuScenes-MQA)
-- DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.09245.pdf) [[[Github]](https://github.com/OpenGVLab/DriveMLM) 
+- DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.09245.pdf) [[[Github]](https://github.com/OpenGVLab/DriveMLM)
+- DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.07920.pdf) [[Project]](https://pkuvdig.github.io/DrivingGaussian/)
+- Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03661.pdf) [[Github]](https://github.com/fudan-zvg/Reason2Drive)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -477,3 +479,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
 - A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
+- C-BEV: Contrastive Bird’s Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.08060.pdf)
