@@ -439,6 +439,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.03661.pdf) [[Github]](https://github.com/fudan-zvg/Reason2Drive)
 - Dialogue-based generation of self-driving simulation scenarios using Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17372.pdf) [[Github]](https://github.com/avmb/dialogllmscenic?tab=readme-ov-file)
 - Panacea: Panoramic and Controllable Video Generation for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16813.pdf) [[Project]](https://panacea-ad.github.io/) [[Github]](https://github.com/wenyuqing/panacea)
+- LingoQA: Video Question Answering for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.14115.pdf) [[Github]](https://github.com/wayveai/LingoQA/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
