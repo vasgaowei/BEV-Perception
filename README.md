@@ -484,6 +484,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.04501.pdf)
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - UC-NERF: NEURAL RADIANCE FIELD FOR UNDER-CALIBRATED MULTI-VIEW CAMERAS IN AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16945.pdf) [[Project]](https://kcheng1021.github.io/ucnerf.github.io/) [[Github]](https://github.com/kcheng1021/UC-NeRF)
+- BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.13081.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
 - A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
 - C-BEV: Contrastive Bird’s Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.08060.pdf)
