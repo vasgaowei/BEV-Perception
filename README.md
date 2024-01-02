@@ -302,6 +302,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Recursive Video Lane Detection (ICCV 2023) [[Paper]](https://browse.arxiv.org/pdf/2308.11106.pdf) [[Github]](https://github.com/dongkwonjin/RVLD)
 - LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf) [[Github]](https://github.com/JMoonr/LATR)
 - Occlusion-Aware 2D and 3D Centerline Detection for Urban Driving via Automatic Label Generation (ARXIV 2023) [[PAPER]](https://arxiv.org/pdf/2311.02044.pdf)
+- BUILDING LANE-LEVEL MAPS FROM AERIAL IMAGES (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.13449.pdf)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
@@ -442,6 +443,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Dialogue-based generation of self-driving simulation scenarios using Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17372.pdf) [[Github]](https://github.com/avmb/dialogllmscenic?tab=readme-ov-file)
 - Panacea: Panoramic and Controllable Video Generation for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16813.pdf) [[Project]](https://panacea-ad.github.io/) [[Github]](https://github.com/wenyuqing/panacea)
 - LingoQA: Video Question Answering for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.14115.pdf) [[Github]](https://github.com/wayveai/LingoQA/)
+- DriveLM: Driving with Graph Visual Question Answering (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14150.pdf) [[Github]](https://github.com/OpenDriveLab/DriveLM)
+- LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14074.pdf) [[Project]](https://sites.google.com/view/lidar-llm)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
