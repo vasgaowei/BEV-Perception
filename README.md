@@ -339,6 +339,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.04079.pdf)
 - P-MAPNET: FAR-SEEING MAP CONSTRUCTOR ENHANCED BY BOTH SDMAP AND HDMAP PRIORS (ICLR 2024 submitted paper) [[Openreview]](https://openreview.net/forum?id=lgDrVM9Rpx) [[Paper]](https://openreview.net/pdf?id=lgDrVM9Rpx)
 - Online Vectorized HD Map Construction using Geometry (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.03341.pdf) [[Github]](https://github.com/cnzzx/GeMap)
+- LANESEGNET: MAP LEARNING WITH LANE SEGMENT PERCEPTION FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.16108.pdf) [[Github]](https://github.com/OpenDriveLab/LaneSegNet)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -488,6 +489,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2308.16714.pdf)
 - PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.04501.pdf)
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
+- BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.15363.pdf)
 - UC-NERF: NEURAL RADIANCE FIELD FOR UNDER-CALIBRATED MULTI-VIEW CAMERAS IN AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16945.pdf) [[Project]](https://kcheng1021.github.io/ucnerf.github.io/) [[Github]](https://github.com/kcheng1021/UC-NeRF)
 - BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.13081.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
