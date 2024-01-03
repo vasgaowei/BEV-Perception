@@ -491,5 +491,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UC-NERF: NEURAL RADIANCE FIELD FOR UNDER-CALIBRATED MULTI-VIEW CAMERAS IN AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16945.pdf) [[Project]](https://kcheng1021.github.io/ucnerf.github.io/) [[Github]](https://github.com/kcheng1021/UC-NeRF)
 - BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.13081.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
+- EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.16170.pdf) [[Github]](https://github.com/OpenRobotLab/EmbodiedScan)
 - A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
 - C-BEV: Contrastive Bird’s Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.08060.pdf)
