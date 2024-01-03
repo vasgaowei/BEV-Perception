@@ -66,6 +66,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.07084.pdf) [[Github]](https://github.com/IranQin/SupFusion)
 - 3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2311.03742.pdf)
 - FUSIONVIT: HIERARCHICAL 3D OBJECT DETECTION VIA LIDAR-CAMERA VISION TRANSFORMER FUSION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.03620.pdf)
+- Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14919.pdf)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
@@ -166,6 +167,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Residual Graph Convolutional Network for Bird”s-Eye-View Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.04044.pdf)
 -  Diffusion-Based Particle-DETR for BEV Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.11578.pdf)
 -  M-BEV: Masked BEV Perception for Robust Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.12144.pdf)
+-  Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
