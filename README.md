@@ -492,6 +492,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.02185.pdf) [[Github]](https://github.com/xmm-prio/BEVTrack)
 - BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.15363.pdf)
 - UC-NERF: NEURAL RADIANCE FIELD FOR UNDER-CALIBRATED MULTI-VIEW CAMERAS IN AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.16945.pdf) [[Project]](https://kcheng1021.github.io/ucnerf.github.io/) [[Github]](https://github.com/kcheng1021/UC-NeRF)
+- All for One, and One for All: UrbanSyn Dataset, the third Musketeer of Synthetic Driving Scenes (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.12176.pdf)
 - BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.13081.pdf)
 - BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01661.pdf)
 - EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.16170.pdf) [[Github]](https://github.com/OpenRobotLab/EmbodiedScan)
