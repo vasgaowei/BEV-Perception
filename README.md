@@ -399,6 +399,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
 - OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.09243.pdf) [[Github]](https://github.com/LinShan-Bin/OccNeRF)
 - RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.11829.pdf)
+- PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.02158.pdf) [[Project]](https://astra-vision.github.io/PaSCo/) [[Github]](https://github.com/astra-vision/PaSCo)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
