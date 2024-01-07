@@ -451,6 +451,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14074.pdf) [[Project]](https://sites.google.com/view/lidar-llm)
 - LMDrive: Closed-Loop End-to-End Driving with Large Language Models (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.07488v2.pdf) [[Github]](https://github.com/opendilab/LMDrive)
 - Visual Point Cloud Forecasting enables Scalable Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.17655.pdf) [[Github]](https://github.com/OpenDriveLab/ViDAR)
+- WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.02934.pdf) [[Github]](https://github.com/fudan-zvg/WoVoGen)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
