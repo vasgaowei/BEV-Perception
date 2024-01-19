@@ -232,6 +232,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning Ego 3D Representation as Ray Tracing (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860126.pdf) [[Github]](https://github.com/fudan-zvg/Ego3RT)
 - Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception (NIPS 2022 Workshop) [[Paper]](https://arxiv.org/pdf/2301.07870.pdf) or [[Paper]](https://arxiv.org/pdf/2301.12511.pdf) [[Github]](https://github.com/Sense-GVT/Fast-BEV)
 - BEVFormer v2: Adapting Modern Image Backbones toBird’s-Eye-View Recognition via Perspective Supervision (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2211.10439.pdf)
+- MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models (CVPR 2023) [[Paper]](/https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_MapPrior_Birds-Eye_View_Map_Layout_Estimation_with_Generative_Models_ICCV_2023_paper.pdf)
 - Bi-Mapper: Holistic BEV Semantic Mapping for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.04205.pdf) [[Github]](https://github.com/lynn-yu/Bi-Mapper)
 - MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2211.10593.pdf) [[Github]](https://github.com/ZRandomize/MatrixVT)
 - MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation (ICCV 2023) [[paper]](https://arxiv.org/pdf/2304.09801.pdf) [[Github]](https://github.com/ChongjianGE/MetaBEV) [[Project]](https://chongjiange.github.io/metabev.html)
