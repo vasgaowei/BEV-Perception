@@ -457,6 +457,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.00988.pdf) [[Github]](https://github.com/xmed-lab/NuInstruct)
 - DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.03641.pdf)
 - A Survey on Multimodal Large Language Models for Autonomous Driving (WACVW 2024) [[Paper]](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)
+- VLP: Vision Language Planning for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.05577.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
