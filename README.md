@@ -169,6 +169,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  M-BEV: Masked BEV Perception for Robust Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.12144.pdf)
 -  Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
 -  WidthFormer: Toward Efficient Transformer-based BEV View Transformation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.03836.pdf) [[Github]](https://github.com/ChenhongyiYang/WidthFormer)
+-  UniVision: A Unified Framework for Vision-Centric 3D Perception (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.06994.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -342,6 +343,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - P-MAPNET: FAR-SEEING MAP CONSTRUCTOR ENHANCED BY BOTH SDMAP AND HDMAP PRIORS (ICLR 2024 submitted paper) [[Openreview]](https://openreview.net/forum?id=lgDrVM9Rpx) [[Paper]](https://openreview.net/pdf?id=lgDrVM9Rpx)
 - Online Vectorized HD Map Construction using Geometry (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.03341.pdf) [[Github]](https://github.com/cnzzx/GeMap)
 - LANESEGNET: MAP LEARNING WITH LANE SEGMENT PERCEPTION FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.16108.pdf) [[Github]](https://github.com/OpenDriveLab/LaneSegNet)
+- 3D Lane Detection from Front or Surround-View using Joint-Modeling & Matching (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2401.08036.pdf)
+- MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07323.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -458,6 +461,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.03641.pdf)
 - A Survey on Multimodal Large Language Models for Autonomous Driving (WACVW 2024) [[Paper]](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)
 - VLP: Vision Language Planning for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.05577.pdf)
+- Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.08045.pdf)
+- MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07314.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
