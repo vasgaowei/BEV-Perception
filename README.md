@@ -170,6 +170,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
 -  WidthFormer: Toward Efficient Transformer-based BEV View Transformation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.03836.pdf) [[Github]](https://github.com/ChenhongyiYang/WidthFormer)
 -  UniVision: A Unified Framework for Vision-Centric 3D Perception (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.06994.pdf)
+-  DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception (Arxiv 2024) [[Paper]]()
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -345,6 +346,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LANESEGNET: MAP LEARNING WITH LANE SEGMENT PERCEPTION FOR AUTONOMOUS DRIVING (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.16108.pdf) [[Github]](https://github.com/OpenDriveLab/LaneSegNet)
 - 3D Lane Detection from Front or Surround-View using Joint-Modeling & Matching (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2401.08036.pdf)
 - MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07323.pdf)
+- Stream Query Denoising for Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.09112.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -405,6 +407,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.09243.pdf) [[Github]](https://github.com/LinShan-Bin/OccNeRF)
 - RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.11829.pdf)
 - PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.02158.pdf) [[Project]](https://astra-vision.github.io/PaSCo/) [[Github]](https://github.com/astra-vision/PaSCo)
+- POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.09413.pdf) [[Github]](https://arxiv.org/pdf/2401.09413.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
