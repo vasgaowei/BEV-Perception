@@ -347,6 +347,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - 3D Lane Detection from Front or Surround-View using Joint-Modeling & Matching (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2401.08036.pdf)
 - MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07323.pdf)
 - Stream Query Denoising for Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.09112.pdf)
+- ADMap: Anti-disturbance framework for reconstructing online vectorized HD map (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.13172.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
