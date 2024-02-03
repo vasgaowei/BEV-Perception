@@ -411,7 +411,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.11829.pdf)
 - PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.02158.pdf) [[Project]](https://astra-vision.github.io/PaSCo/) [[Github]](https://github.com/astra-vision/PaSCo)
 - POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.09413.pdf) [[Github]](https://arxiv.org/pdf/2401.09413.pdf)
-- S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.13785.pdf)
+- S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.13785.pdf)
+- InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.12422.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
