@@ -168,9 +168,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Diffusion-Based Particle-DETR for BEV Perception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.11578.pdf)
 -  M-BEV: Masked BEV Perception for Robust Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.12144.pdf)
 -  Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
+-  Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
 -  WidthFormer: Toward Efficient Transformer-based BEV View Transformation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.03836.pdf) [[Github]](https://github.com/ChenhongyiYang/WidthFormer)
 -  UniVision: A Unified Framework for Vision-Centric 3D Perception (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.06994.pdf)
--  DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception (Arxiv 2024) [[Paper]]()
+-  DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.08687.pdf)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
