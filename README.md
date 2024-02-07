@@ -524,3 +524,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.11754.pdf)
 - C-BEV: Contrastive Bird’s Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.08060.pdf)
 - Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.11499.pdf)
+- GeoDecoder: Empowering Multimodal Map Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.15118.pdf)
