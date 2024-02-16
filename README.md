@@ -416,6 +416,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.09413.pdf) [[Github]](https://arxiv.org/pdf/2401.09413.pdf)
 - S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.13785.pdf)
 - InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.12422.pdf)
+- V2VSSC: A 3D Semantic Scene Completion Benchmark for Perception with Vehicle to Vehicle Communication (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.04671.pdf)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -474,6 +475,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VLP: Vision Language Planning for Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2401.05577.pdf)
 - Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.08045.pdf)
 - MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07314.pdf)
+- Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.05746.pdf)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -527,3 +529,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.11499.pdf)
 - GeoDecoder: Empowering Multimodal Map Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.15118.pdf)
 - Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird’s-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.00637.pdf)
+- Text2Street: Controllable Text-to-image Generation for Street Views (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2402.04504.pdf)
