@@ -354,6 +354,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LaneGraph2Seq: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement (AAAI 2024) [[paper]](https://arxiv.org/pdf/2401.17609.pdf)
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[Paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
 - CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.06423)
+- VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
