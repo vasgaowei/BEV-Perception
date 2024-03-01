@@ -83,6 +83,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - S3-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.00928.pdf) [[Github]](https://github.com/mikasa3lili/S3-MonoDETR)
 - MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.00400.pdf)
 - YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17379.pdf)
+- UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573v1) 
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -355,6 +356,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[Paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
 - CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.06423)
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
+- Lane2Seq: Towards Unified Lane Detection via Sequence Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.17172)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -479,6 +481,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.08045.pdf)
 - MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07314.pdf)
 - Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.05746.pdf)
+- DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.12289) [[Github]](https://tsinghua-mars-lab.github.io/DriveVLM/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -533,3 +536,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GeoDecoder: Empowering Multimodal Map Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.15118.pdf)
 - Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird’s-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.00637.pdf)
 - Text2Street: Controllable Text-to-image Generation for Street Views (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2402.04504.pdf)
+- Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13848)
