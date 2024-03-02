@@ -264,6 +264,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ReasonNet: End-to-End Driving with Temporal and Global Reasoning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.10507.pdf)
 - LiDAR-BEVMTN: Real-Time LiDAR Bird’s-Eye View Multi-Task Perception Network for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.08850.pdf)
 - FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
+- VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13243) [[Project]]()https://hgao-cv.github.io/VADv2/
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
@@ -482,6 +483,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.07314.pdf)
 - Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.05746.pdf)
 - DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.12289) [[Github]](https://tsinghua-mars-lab.github.io/DriveVLM/)
+- GenAD: Generative End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.11502) [[Github]](https://arxiv.org/abs/2402.11502)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
