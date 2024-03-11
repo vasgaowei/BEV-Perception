@@ -83,7 +83,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - S3-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.00928.pdf) [[Github]](https://github.com/mikasa3lili/S3-MonoDETR)
 - MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.00400.pdf)
 - YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.17379.pdf)
-- UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573v1) 
+- UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573v1)
+- Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving (Arxuv 2024) [[paper]](https://arxiv.org/abs/2403.02037) [[Github]](https://github.com/Owen-Liuyuxuan/visionfactory)
+- UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -91,7 +93,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework (NeurIPS 2022) [[Paper]](https://arxiv.org/abs/2205.13790)[[Github]](https://github.com/ADLab-AutoDrive/BEVFusion)
 - Unifying Voxel-based Representation withTransformer for 3D Object Detectio (NeurIPS 2022) [[paper]](https://arxiv.org/pdf/2206.00630.pdf)[[Github]](https://github.com/dvlab-research/UVTR)
 - Polar Parametrization for Vision-based Surround-View 3D Detection (arxiv 2022) [[Paper]](https://arxiv.org/abs/2206.10965) [[Github]](https://github.com/hustvl/PolarDETR)
-- SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection andTracking for Autonomous Driving  (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2206.14451) [[Github]](https://github.com/synsin0/SRCN3D)
+- SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving  (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2206.14451) [[Github]](https://github.com/synsin0/SRCN3D)
 - BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection (Arxuv 2022) [[Paper]](https://arxiv.org/pdf/2203.17054.pdf) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
 - BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stere (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2209.10248)[[Github]](https://github.com/Megvii-BaseDetection/BEVStereo)
 - MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2207.12716.pdf) [[Github]](https://github.com/Tai-Wang/Depth-from-Motion)
@@ -425,6 +427,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.12422.pdf)
 - V2VSSC: A 3D Semantic Scene Completion Benchmark for Perception with Vehicle to Vehicle Communication (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.04671.pdf)
 - OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.12792)
+- OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.01644)
+- OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.18140)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
