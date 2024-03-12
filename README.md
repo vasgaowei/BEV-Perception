@@ -429,6 +429,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.12792)
 - OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.01644)
 - OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.18140)
+- FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View (ICRA 2024) [[Paper]](https://arxiv.org/abs/2403.02710)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
