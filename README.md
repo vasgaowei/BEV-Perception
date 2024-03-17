@@ -251,6 +251,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Towards Viewpoint Robustness in Bird’s Eye View Segmentation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2309.05192.pdf) [[Project]](https://nvlabs.github.io/viewpoint-robustness/)
 - PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2306.10761.pdf)
 - PointBeV: A Sparse Approach to BeV Predictions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.00703.pdf) [[Github]](https://github.com/valeoai/PointBeV)
+- DualBEV: CNN is All You Need in View Transformation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.05402)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -430,6 +431,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.01644)
 - OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.18140)
 - FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View (ICRA 2024) [[Paper]](https://arxiv.org/abs/2403.02710)
+- OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.05329)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
