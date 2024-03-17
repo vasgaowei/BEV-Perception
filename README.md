@@ -432,6 +432,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.18140)
 - FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View (ICRA 2024) [[Paper]](https://arxiv.org/abs/2403.02710)
 - OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.05329)
+- PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness (CVPR 2024) [[Paper]](https://arxiv.org/abs/2212.02501) [[Github]](https://github.com/astra-vision/PaSCo?tab=readme-ov-file)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
