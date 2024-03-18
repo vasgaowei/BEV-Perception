@@ -549,3 +549,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird’s-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2402.00637.pdf)
 - Text2Street: Controllable Text-to-image Generation for Street Views (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2402.04504.pdf)
 - Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13848)
+- EV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.06600)
