@@ -370,8 +370,13 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 - U-BEV: Height-aware Bird’s-Eye-View Segmentation and Neural Map-based Relocalization (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.13766.pdf)
 ### Occupancy Prediction
+- Semantic Scene Completion from a Single Depth Image (CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.08974.pdf)
 - Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Github]](https://avg.is.mpg.de/publications/occupancy-networks)
+- S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds (CoRL 2020) [[Paper]](https://arxiv.org/pdf/2012.09242.pdf)
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+- Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data (Arxiv 2021) [[Paper]](https://arxiv.org/pdf/2011.09141.pdf)
+- Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2012.03762.pdf)
+- 
 - Estimation  of  Appearance  and  Occupancy  Information  in  Bird’s  EyeView  from  Surround  Monocular  Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.04557.pdf) [[Project]](https://uditsinghparihar.github.io/APP_OCC/)
 - Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds (IROS 2021) [[Paper]](https://arxiv.org/pdf/2109.11453.pdf) [[Github]](https://github.com/jokester-zzz/SSA-SC)
 - Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
