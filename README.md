@@ -378,7 +378,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - 3D Semantic Scene Completion: a Survey (IJCV 2021) [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
 - Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data (Arxiv 2021) [[Paper]](https://arxiv.org/pdf/2011.09141.pdf)
 - Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2012.03762.pdf)
-- 
+- Anisotropic Convolutional Networks for 3D Semantic Scene Completion (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2004.02122.pdf)
 - Estimation  of  Appearance  and  Occupancy  Information  in  Bird’s  EyeView  from  Surround  Monocular  Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.04557.pdf) [[Project]](https://uditsinghparihar.github.io/APP_OCC/)
 - Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds (IROS 2021) [[Paper]](https://arxiv.org/pdf/2109.11453.pdf) [[Github]](https://github.com/jokester-zzz/SSA-SC)
 - Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.01212.pdf)
