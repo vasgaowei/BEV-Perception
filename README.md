@@ -177,6 +177,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.08687.pdf)
 -  Towards Scenario Generalization for Vision-based Roadside 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.16110.pdf) [[Github]]()
 -  CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08919)
+-  GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11848)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -190,6 +191,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FUSIONFORMER: A MULTI-SENSORY FUSION IN BIRD’S-EYE-VIEW AND TEMPORAL CONSISTENT TRANSFORMER FOR 3D OBJECTION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2309.05257v1.pdf)
 - UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
 - BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird’s Eye View Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.11119.pdf)
+- BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11761)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 - SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
@@ -443,6 +445,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.08748)
 - OccFiner: Offboard Occupancy Refinement with Hybrid Propagation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.08504)
 - MonoOcc: Digging into Monocular Semantic Occupancy Prediction (ICLR 2024) [[Paper]](https://arxiv.org/abs/2403.08766)
+- OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
+- Urban Scene Diffusion through Semantic Occupancy Map (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.11697)
+- 
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -561,3 +566,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Text2Street: Controllable Text-to-image Generation for Street Views (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2402.04504.pdf)
 - Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13848)
 - EV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.06600)
+- OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
