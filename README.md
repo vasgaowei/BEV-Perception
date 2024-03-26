@@ -178,6 +178,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Towards Scenario Generalization for Vision-based Roadside 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2401.16110.pdf) [[Github]]()
 -  CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08919)
 -  GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11848)
+-  Lifting Multi-View Detection and Tracking to the Bird's Eye View (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.12573) [[Github]](https://github.com/tteepe/TrackTacular)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -567,3 +568,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13848)
 - EV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.06600)
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
+- M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.12552)
