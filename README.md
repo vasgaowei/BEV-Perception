@@ -223,6 +223,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Semi-Supervised Learning for Visual Bird’s Eye View Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.14525.pdf)
 - DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEVPerception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.03724.pdf) [[github]](https://github.com/YunzeMan/DualCross) [[Project]](https://yunzeman.github.io/DualCross/)
 - CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02815.pdf)
+- SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.20318) [[Github]](https://github.com/abhi1kumar/SeaBird)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -511,6 +512,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.12289) [[Github]](https://tsinghua-mars-lab.github.io/DriveVLM/)
 - GenAD: Generative End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.11502) [[Github]](https://arxiv.org/abs/2402.11502)
 - Generalized Predictive Model for Autonomous Driving (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.09630)
+- AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.13331)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
