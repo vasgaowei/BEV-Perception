@@ -56,6 +56,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection (IEEE TIV 2023) [[Paper]](https://arxiv.org/pdf/2208.12079.pdf)
 - CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception (ICLRW 2023) [[Paper]](https://arxiv.org/pdf/2304.00670.pdf)
 - RC-BEVFusion: A Plug-In Module for Radar-CameraBird’s Eye View Feature Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15883.pdf)
+- RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16440) [[Github]](https://github.com/VDIGPKU/RCBEVDet)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -368,6 +369,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
 - Lane2Seq: Towards Unified Lane Detection via Sequence Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.17172)
 - Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.17430)
+- MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.15951) [[Github]](https://map-tracker.github.io/)
+- Producing and Leveraging Online Map Uncertainty in Trajectory Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16439)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -513,6 +516,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GenAD: Generative End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.11502) [[Github]](https://arxiv.org/abs/2402.11502)
 - Generalized Predictive Model for Autonomous Driving (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.09630)
 - AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.13331)
+- DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.16996)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
