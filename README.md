@@ -517,6 +517,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Generalized Predictive Model for Autonomous Driving (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.09630)
 - AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.13331)
 - DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.16996)
+- SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.19438) [[Project]](https://subjectdrive.github.io/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
