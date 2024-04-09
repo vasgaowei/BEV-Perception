@@ -259,6 +259,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PointBeV: A Sparse Approach to BeV Predictions (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.00703.pdf) [[Github]](https://github.com/valeoai/PointBeV)
 - DualBEV: CNN is All You Need in View Transformation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.05402)
 - MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.08760)
+- HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.02517) [[Github]](https://github.com/VDIGPKU/HENet)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
