@@ -33,6 +33,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
   - [Lidar Camera](#lidar-camera)
   - [Monocular](#monocular)
   - [Multiple Camera](#multiple-camera)
+- [LaneGraph](#lanegraph)
+  - [Monocular](#monocular)
 - [Locate](#locate)
 - [Occupancy Prediction](#occupancy-prediction)
   - [Occupancy Challenge](#occupancy-challenge)
@@ -373,6 +375,11 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.15951) [[Github]](https://map-tracker.github.io/)
 - Producing and Leveraging Online Map Uncertainty in Trajectory Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16439)
 - MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00876) [[Github]](https://github.com/xiaolul2/MGMap)
+- HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08639)
+### Lanegraph
+#### Monocular
+- AutoGraph: Predicting Lane Graphs from Traffic Observations (IEEE RAL 2023) [[Paper]](https://arxiv.org/abs/2306.15410)
+- Learning and Aggregating Lane Graphs for Urban Automated Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.06175.pdf)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
