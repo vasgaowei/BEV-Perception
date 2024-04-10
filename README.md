@@ -378,6 +378,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08639)
 ### Lanegraph
 #### Monocular
+- Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
 - AutoGraph: Predicting Lane Graphs from Traffic Observations (IEEE RAL 2023) [[Paper]](https://arxiv.org/abs/2306.15410)
 - Learning and Aggregating Lane Graphs for Urban Automated Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.06175.pdf)
 ### Tracking
