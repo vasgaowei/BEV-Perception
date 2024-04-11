@@ -263,6 +263,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.08760)
 - HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.02517) [[Github]](https://github.com/VDIGPKU/HENet)
 - Improving Bird's Eye View Semantic Segmentation by Task Decomposition (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.01925) [[Github]](https://github.com/happytianhao/TaDe)
+- SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.02638) [[Github]](https://github.com/yejy53/SG-BEV)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -463,7 +464,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MonoOcc: Digging into Monocular Semantic Occupancy Prediction (ICLR 2024) [[Paper]](https://arxiv.org/abs/2403.08766)
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
 - Urban Scene Diffusion through Semantic Occupancy Map (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.11697)
-- 
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
