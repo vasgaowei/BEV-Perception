@@ -227,6 +227,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEVPerception (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2305.03724.pdf) [[github]](https://github.com/YunzeMan/DualCross) [[Project]](https://yunzeman.github.io/DualCross/)
 - CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02815.pdf)
 - SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.20318) [[Github]](https://github.com/abhi1kumar/SeaBird)
+- DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06352) [[Github]](https://streamable.com/ge4v51)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -264,6 +265,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.02517) [[Github]](https://github.com/VDIGPKU/HENet)
 - Improving Bird's Eye View Semantic Segmentation by Task Decomposition (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.01925) [[Github]](https://github.com/happytianhao/TaDe)
 - SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.02638) [[Github]](https://github.com/yejy53/SG-BEV)
+- RoadBEV: Road Surface Reconstruction in Bird's Eye View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06605) [[Github]](https://github.com/ztsrxh/RoadBEV)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -280,6 +282,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LiDAR-BEVMTN: Real-Time LiDAR Bird’s-Eye View Multi-Task Perception Network for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.08850.pdf)
 - FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
 - VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13243) [[Project]]()https://hgao-cv.github.io/VADv2/
+- SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06892)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
@@ -464,6 +467,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MonoOcc: Digging into Monocular Semantic Occupancy Prediction (ICLR 2024) [[Paper]](https://arxiv.org/abs/2403.08766)
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
 - Urban Scene Diffusion through Semantic Occupancy Map (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.11697)
+- Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.04561) [[Github]](https://rorisis.github.io/Co-Occ_project-page/)
+- SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.09502)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
