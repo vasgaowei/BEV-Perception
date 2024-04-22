@@ -376,9 +376,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.06423)
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving (Arxiv 2024) [[paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf)
 - Lane2Seq: Towards Unified Lane Detection via Sequence Generation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.17172)
-- Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.17430)
+- Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.17430) [[Github]](https://github.com/HXMap/MapQR)
 - MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.15951) [[Github]](https://map-tracker.github.io/)
-- Producing and Leveraging Online Map Uncertainty in Trajectory Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16439)
+- Producing and Leveraging Online Map Uncertainty in Trajectory Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16439) [[Github]](https://github.com/alfredgu001324/MapUncertaintyPrediction)
 - MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00876) [[Github]](https://github.com/xiaolul2/MGMap)
 - HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08639)
 ### Lanegraph
