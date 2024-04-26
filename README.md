@@ -266,6 +266,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Improving Bird's Eye View Semantic Segmentation by Task Decomposition (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.01925) [[Github]](https://github.com/happytianhao/TaDe)
 - SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.02638) [[Github]](https://github.com/yejy53/SG-BEV)
 - RoadBEV: Road Surface Reconstruction in Bird's Eye View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06605) [[Github]](https://github.com/ztsrxh/RoadBEV)
+- TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.11803)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -469,6 +470,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Urban Scene Diffusion through Semantic Occupancy Map (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.11697)
 - Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.04561) [[Github]](https://rorisis.github.io/Co-Occ_project-page/)
 - SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.09502)
+- Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation (CVPR 2024) [[paper]](https://arxiv.org/abs/2404.11958) [[Github]](https://github.com/songw-zju/HASSC)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
