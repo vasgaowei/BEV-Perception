@@ -472,6 +472,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.09502)
 - Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation (CVPR 2024) [[paper]](https://arxiv.org/abs/2404.11958) [[Github]](https://github.com/songw-zju/HASSC)
 - OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks (Arxiv 2023) [[Paper]](https://arxiv.org/abs/2404.13046)
+- OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2404.15014)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
