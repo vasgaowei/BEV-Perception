@@ -382,6 +382,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Producing and Leveraging Online Map Uncertainty in Trajectory Prediction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16439) [[Github]](https://github.com/alfredgu001324/MapUncertaintyPrediction)
 - MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.00876) [[Github]](https://github.com/xiaolul2/MGMap)
 - HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08639)
+- SemVecNet: Generalizable Vector Map Generation for Arbitrary Sensor Configurations (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.00250)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -542,6 +543,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.19438) [[Project]](https://subjectdrive.github.io/)
 - DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.06845) [[Project]](https://drivedreamer2.github.io/) [[Github]](https://github.com/f1yfisher/DriveDreamer2)
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models (ICLR 2024) [[Paper]](https://arxiv.org/abs/2309.16292) [[Paper]](https://pjlab-adg.github.io/DiLu/)
+- OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01533)
+- GAD-Generative Learning for HD Map-Free Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.00515)
+- Guiding Attention in End-to-End Driving Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.00242)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -600,3 +604,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.06600)
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
 - M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.12552)
+- MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01413)
