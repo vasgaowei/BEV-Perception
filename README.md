@@ -268,6 +268,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation (CVPR 2024) [[Paper]](https://arxiv.org/abs/2404.02638) [[Github]](https://github.com/yejy53/SG-BEV)
 - RoadBEV: Road Surface Reconstruction in Bird's Eye View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06605) [[Github]](https://github.com/ztsrxh/RoadBEV)
 - TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.11803)
+- DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02008)
+- Bird's-Eye View to Street-View: A Survey (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.08961)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
