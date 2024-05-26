@@ -183,6 +183,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.08919)
 -  GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11848)
 -  Lifting Multi-View Detection and Tracking to the Bird's Eye View (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.12573) [[Github]](https://github.com/tteepe/TrackTacular)
+-  DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10577)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -482,6 +483,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.04299)
 - A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.05173)
 - Vision-based 3D occupancy prediction in autonomous driving: a review and outlook (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02595)
+- GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10591)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
