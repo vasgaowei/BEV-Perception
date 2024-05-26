@@ -562,6 +562,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01533)
 - GAD-Generative Learning for HD Map-Free Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.00515)
 - MaskFuser: Masked Fusion of Joint Multi-Modal Tokenization for End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.07573)
+- MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.14475)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
