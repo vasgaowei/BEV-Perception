@@ -485,6 +485,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.05173)
 - Vision-based 3D occupancy prediction in autonomous driving: a review and outlook (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02595)
 - GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10591)
+- RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.14014)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
