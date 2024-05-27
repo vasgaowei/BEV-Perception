@@ -394,6 +394,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
 - AutoGraph: Predicting Lane Graphs from Traffic Observations (IEEE RAL 2023) [[Paper]](https://arxiv.org/abs/2306.15410)
 - Learning and Aggregating Lane Graphs for Urban Automated Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.06175.pdf)
+- TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.14747)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
