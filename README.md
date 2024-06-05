@@ -90,6 +90,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573v1)
 - Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving (Arxuv 2024) [[paper]](https://arxiv.org/abs/2403.02037) [[Github]](https://github.com/Owen-Liuyuxuan/visionfactory)
 - UniMODE: Unified Monocular 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2402.18573)
+- MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.15176)
 #### Multiple Camera
 - Object DGCNN: 3D Object Detection using Dynamic Graphs (NIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.06923.pdf)[[Github]](https://github.com/WangYueFt/detr3d)
 - BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View (Arxiv 2022) [[Paper]](https://arxiv.org/abs/2112.11790) [[Github]](https://github.com/HuangJunJie2017/BEVDet)
@@ -570,6 +571,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MaskFuser: Masked Fusion of Joint Multi-Modal Tokenization for End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.07573)
 - MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.14475)
 - Language-Image Models with 3D Understanding (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2405.03685) [[Project]](https://janghyuncho.github.io/Cube-LLM/)
+- Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving? (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18361)
+- GFlow: Recovering 4D World from Monocular Video (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18426) [[Github]](https://littlepure2333.github.io/GFlow/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
