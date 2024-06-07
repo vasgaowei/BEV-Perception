@@ -575,6 +575,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving? (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18361)
 - GFlow: Recovering 4D World from Monocular Video (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18426) [[Github]](https://littlepure2333.github.io/GFlow/)
 - Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.17426) [[Github]](https://github.com/Daniel-xsy/RoboBEV)
+- Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.17398) [[Github]](https://github.com/OpenDriveLab/Vista) [[Project]](https://vista-demo.github.io/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
