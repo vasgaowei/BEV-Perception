@@ -272,6 +272,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.11803)
 - DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02008)
 - Bird's-Eye View to Street-View: A Survey (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.08961)
+- LetsMap: Unsupervised Representation Learning for Semantic BEV Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18852)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -287,8 +288,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ReasonNet: End-to-End Driving with Temporal and Global Reasoning (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2305.10507.pdf)
 - LiDAR-BEVMTN: Real-Time LiDAR Bird’s-Eye View Multi-Task Perception Network for Autonomous Driving (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2307.08850.pdf)
 - FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
-- VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13243) [[Project]]()https://hgao-cv.github.io/VADv2/
+- VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13243) [[Project]](https://hgao-cv.github.io/VADv2/)
 - SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06892)
+- SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.19620) [[Github]](https://github.com/swc-17/SparseDrive)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
@@ -576,6 +578,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GFlow: Recovering 4D World from Monocular Video (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18426) [[Github]](https://littlepure2333.github.io/GFlow/)
 - Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.17426) [[Github]](https://github.com/Daniel-xsy/RoboBEV)
 - Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.17398) [[Github]](https://github.com/OpenDriveLab/Vista) [[Project]](https://vista-demo.github.io/)
+- OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20337) [[Github]](https://github.com/wzzheng/OccSora) [[Project]](https://wzzheng.net/OccSora/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
