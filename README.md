@@ -402,6 +402,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
 - Traj-MAE: Masked Autoencoders for Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.06697)
+- Trajectory Forecasting through Low-Rank Adaptation of Discrete Latent Codes (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20743)
 ### Locate
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
