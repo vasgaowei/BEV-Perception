@@ -185,6 +185,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11848)
 -  Lifting Multi-View Detection and Tracking to the Bird's Eye View (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.12573) [[Github]](https://github.com/tteepe/TrackTacular)
 -  DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10577)
+-  BEVSpread: Spread Voxel Pooling for Bird’s-Eye-View Representation in Vision-based Roadside 3D Object Detection (CVPR 2024) [[Paper]]() [[Github]](https://github.com/DaTongjie/BEVSpread)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
