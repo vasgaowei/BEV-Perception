@@ -399,6 +399,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - AutoGraph: Predicting Lane Graphs from Traffic Observations (IEEE RAL 2023) [[Paper]](https://arxiv.org/abs/2306.15410)
 - Learning and Aggregating Lane Graphs for Urban Automated Driving (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2302.06175.pdf)
 - TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.14747)
+- Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03105)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
@@ -581,6 +582,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.17426) [[Github]](https://github.com/Daniel-xsy/RoboBEV)
 - Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2405.17398) [[Github]](https://github.com/OpenDriveLab/Vista) [[Project]](https://vista-demo.github.io/)
 - OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20337) [[Github]](https://github.com/wzzheng/OccSora) [[Project]](https://wzzheng.net/OccSora/)
+- DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03008) [[Github]](https://sled-group.github.io/driVLMe/)
+- AD-H: Autonomous Driving with Hierarchical Agents (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03474)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
