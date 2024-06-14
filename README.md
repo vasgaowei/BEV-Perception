@@ -409,6 +409,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
 - U-BEV: Height-aware Bird’s-Eye-View Segmentation and Neural Map-based Relocalization (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.13766.pdf)
+- Monocular Localization with Semantics Map for Autonomous Vehicles (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03835)
 ### Occupancy Prediction
 - Semantic Scene Completion from a Single Depth Image (CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.08974.pdf)
 - Occupancy Networks: Learning 3D Reconstruction in Function Space (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1812.03828.pdf) [[Github]](https://avg.is.mpg.de/publications/occupancy-networks)
@@ -584,6 +585,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20337) [[Github]](https://github.com/wzzheng/OccSora) [[Project]](https://wzzheng.net/OccSora/)
 - DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03008) [[Github]](https://sled-group.github.io/driVLMe/)
 - AD-H: Autonomous Driving with Hierarchical Agents (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03474)
+- Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03877) [[Github]](https://thinklab-sjtu.github.io/Bench2Drive/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
