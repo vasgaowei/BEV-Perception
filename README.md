@@ -341,6 +341,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LATR: 3D Lane Detection from Monocular Images with Transformer (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.04583.pdf) [[Github]](https://github.com/JMoonr/LATR)
 - Occlusion-Aware 2D and 3D Centerline Detection for Urban Driving via Automatic Label Generation (ARXIV 2023) [[PAPER]](https://arxiv.org/pdf/2311.02044.pdf)
 - BUILDING LANE-LEVEL MAPS FROM AERIAL IMAGES (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.13449.pdf)
+- LaneCPP: Continuous 3D Lane Detection using Physical Priors (CVPR 2024) [[Paper]](https://arxiv.org/pdf/2406.08381)
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
@@ -497,6 +498,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.14014)
 - GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.17429) [[Github]](https://github.com/huang-yh/GaussianFormer)
 - OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20337) [[Github]](https://github.com/wzzheng/OccSora)
+- EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.07042) [[Github]](https://github.com/synsin0/EFFOcc)
+- PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving (3DV 2024) [[paper]](https://arxiv.org/abs/2406.07037)
+- UnO: Unsupervised Occupancy Fields for Perception and Forecasting (Arxiv 2024) [[paper]](https://arxiv.org/abs/2406.08691)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -587,6 +591,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03008) [[Github]](https://sled-group.github.io/driVLMe/)
 - AD-H: Autonomous Driving with Hierarchical Agents (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03474)
 - Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.03877) [[Github]](https://thinklab-sjtu.github.io/Bench2Drive/)
+- A Superalignment Framework in Autonomous Driving with Large Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.05651)
+- Enhancing End-to-End Autonomous Driving with Latent World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.08481)
+- SimGen: Simulator-conditioned Driving Scene Generation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2406.09386)
+- Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset (Arxiv 2024) [[paper]](https://arxiv.org/abs/2406.09383) [[Project]](https://ai4ce.github.io/MARS/)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
