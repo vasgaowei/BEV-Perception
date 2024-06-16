@@ -292,6 +292,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13243) [[Project]](https://hgao-cv.github.io/VADv2/)
 - SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06892)
 - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.19620) [[Github]](https://github.com/swc-17/SparseDrive)
+- DUALAD: Disentangling the Dynamic and Static World for End-to-End Driving (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Doll_DualAD_Disentangling_the_Dynamic_and_Static_World_for_End-to-End_Driving_CVPR_2024_paper.pdf)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
