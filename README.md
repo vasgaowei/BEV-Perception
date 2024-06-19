@@ -501,6 +501,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.07042) [[Github]](https://github.com/synsin0/EFFOcc)
 - PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving (3DV 2024) [[paper]](https://arxiv.org/abs/2406.07037)
 - UnO: Unsupervised Occupancy Fields for Perception and Forecasting (Arxiv 2024) [[paper]](https://arxiv.org/abs/2406.08691)
+- Context and Geometry Aware Voxel Transformer for Semantic Scene Completion (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.13675) [[Github]](https://github.com/pkqbajng/CGFormer?tab=readme-ov-file)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
