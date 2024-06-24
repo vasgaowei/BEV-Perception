@@ -395,6 +395,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SemVecNet: Generalizable Vector Map Generation for Arbitrary Sensor Configurations (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.00250)
 - DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.05518)
 - Addressing Diverging Training Costs using Local Restoration for Precise Bird's Eye View Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01016)
+- Is Your HD Map Constructor Reliable under Sensor Corruptions? (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.12214) [[Github]](https://github.com/mapbench/toolkit) [[Project]](https://mapbench.github.io/)
+- DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation（KDD 2024）[[Paper]](https://arxiv.org/abs/2406.14255)
+- LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.13988)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -508,8 +511,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios (CVPR 2023 WorkShop) [[Paper]](https://arxiv.org/pdf/2307.10934.pdf) [[Github]](https://drive.google.com/file/d/1IFUxbx1hI7iA7uXxilfq-Z0JXMGEU2Zb/view)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
+- MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report (CVPR 2024 Challenge) [[Paper]](https://arxiv.org/abs/2406.10125)
 ### Dataset
 - Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
+- SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions (IV 2024) [[Paper]](https://arxiv.org/abs/2406.09945) [[Project]](https://semantic-spray-dataset.github.io/) [[Github]](https://github.com/uulm-mrm/semantic_spray_dataset)
 ### World Model
 - End-to-end Autonomous Driving: Challenges and Frontiers (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2306.16927.pdf) [[Github]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
 - Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving (ICRA 2024) [[paper]](https://arxiv.org/pdf/2310.02251.pdf) [[Github]](https://github.com/llmbev/talk2bev) [[Project]](https://llmbev.github.io/talk2bev/)
