@@ -603,6 +603,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset (Arxiv 2024) [[paper]](https://arxiv.org/abs/2406.09383) [[Project]](https://ai4ce.github.io/MARS/)
 - WonderWorld: Interactive 3D Scene Generation from a Single Image (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.09394)
 - CarLLaVA: Vision language models for camera-only closed-loop driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2406.10165)
+- End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2406.17680)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
