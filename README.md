@@ -293,6 +293,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06892)
 - SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2405.19620) [[Github]](https://github.com/swc-17/SparseDrive)
 - DUALAD: Disentangling the Dynamic and Static World for End-to-End Driving (CVPR 2024) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Doll_DualAD_Disentangling_the_Dynamic_and_Static_World_for_End-to-End_Driving_CVPR_2024_paper.pdf)
+- Solving Motion Planning Tasks with a Scalable Generative Model (ECCV 2024) [[Paper]](/https://arxiv.org/pdf/2407.02797) [[Github]](https://github.com/HorizonRobotics/GUMP/)
 ### Mapping
 #### Lidar
 - Hierarchical Recurrent Attention Networks for Structured Online Map (CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Homayounfar_Hierarchical_Recurrent_Attention_CVPR_2018_paper.pdf)
@@ -509,6 +510,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
 - OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios (CVPR 2023 WorkShop) [[Paper]](https://arxiv.org/pdf/2307.10934.pdf) [[Github]](https://drive.google.com/file/d/1IFUxbx1hI7iA7uXxilfq-Z0JXMGEU2Zb/view)
+- AdaOcc: Adaptive Forward View Transformation and Flow Modeling for 3D Occupancy and Flow Prediction (CVPR 2024 Workshop) [[Paper]](https://arxiv.org/pdf/2407.01436)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 - MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report (CVPR 2024 Challenge) [[Paper]](https://arxiv.org/abs/2406.10125)
@@ -604,6 +606,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - WonderWorld: Interactive 3D Scene Generation from a Single Image (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2406.09394)
 - CarLLaVA: Vision language models for camera-only closed-loop driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2406.10165)
 - End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2406.17680)
+- CarLLaVA: Vision language models for camera-only closed-loop driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2406.10165)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -663,3 +666,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
 - M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.12552)
 - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01413)
+- AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction [[Paper]](Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.02598) [[Project]](https://autosplat.github.io/)
