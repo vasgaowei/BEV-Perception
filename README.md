@@ -678,4 +678,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.12552)
 - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01413)
 - Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.06861)
+- MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08561)
 - AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction [[Paper]](Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.02598) [[Project]](https://autosplat.github.io/)
