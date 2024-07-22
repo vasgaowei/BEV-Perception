@@ -75,6 +75,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
 - V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.04409.pdf)
+- SEED: A Simple and Effective 3D DETR in Point Clouds (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10749) [[Github]](https://github.com/happinesslz/SEED)
 #### Monocular
 - Learning  2D  to  3D  Lifting  for  Object  Detection  in  3Dfor  Autonomous  Vehicles (IROS 2019) [[Paper]](https://arxiv.org/abs/1904.08494) [[Project Page](https://www.nec-labs.com/research/media-analytics/projects/learning-2d-to-3d-lifting-for-object-detection-in-3d-for-autonomous-vehicles/)
 - Orthographic Feature Transform for Monocular 3D Object Detection (BMVC 2019) [[Paper]](http://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2019-BMVC-Orthographic-Feature-Transform.pdf) [[Github]](https://github.com/tom-roddick/oft)
@@ -186,6 +187,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Lifting Multi-View Detection and Tracking to the Bird's Eye View (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.12573) [[Github]](https://github.com/tteepe/TrackTacular)
 -  DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10577)
 -  BEVSpread: Spread Voxel Pooling for Bird’s-Eye-View Representation in Vision-based Roadside 3D Object Detection (CVPR 2024) [[Paper]]() [[Github]](https://github.com/DaTongjie/BEVSpread)
+-  OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10753) [[Github]](https://github.com/AlmoonYsl/OPEN)
+-  FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10135) 
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
