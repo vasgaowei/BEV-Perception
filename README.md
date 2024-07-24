@@ -405,6 +405,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.06683) [[Github]](https://github.com/alfredgu001324/MapBEVPrediction)
 - BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08526)
 - Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08726)
+- MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.11682)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -419,6 +420,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Traj-MAE: Masked Autoencoders for Trajectory Prediction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2303.06697)
 - Trajectory Forecasting through Low-Rank Adaptation of Discrete Latent Codes (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20743)
 - MapsTP: HD Map Images Based Multimodal Trajectory Prediction for Automated Vehicles (Arixv 2024) [[Paper]](https://arxiv.org/pdf/2407.05811)
+- Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11644)
 ### Locate
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
@@ -517,6 +519,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Occupancy as Set of Points (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.04049) [[Github]](https://github.com/hustvl/osp)
 - Lift, Splat, Map: Lifting Foundation Masks for Label-Free Semantic Scene Completion (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.03425)
 - Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.07587)
+- Monocular Occupancy Prediction for Scalable Indoor Scenes (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.11730) [[Github]](https://github.com/hongxiaoy/ISO)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -683,3 +686,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.06861)
 - MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08561)
 - AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction [[Paper]](Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.02598) [[Project]](https://autosplat.github.io/)
+- UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
