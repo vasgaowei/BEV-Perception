@@ -421,6 +421,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Trajectory Forecasting through Low-Rank Adaptation of Discrete Latent Codes (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.20743)
 - MapsTP: HD Map Images Based Multimodal Trajectory Prediction for Automated Vehicles (Arixv 2024) [[Paper]](https://arxiv.org/pdf/2407.05811)
 - Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11644)
+- Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.12491)
+- VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions (Arxiv 2024) [[Paper]](https://moonseokha.github.io/VisionTrap/)
 ### Locate
 - BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.14927.pdf)
 - BEV-SLAM: Building a Globally-Consistent WorldMap Using Monocular Vision (IROS 2022) [[Paper]](https://cvssp.org/Personal/OscarMendez/papers/pdf/RossIROS2022.pdf)
