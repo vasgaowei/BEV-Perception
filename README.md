@@ -203,6 +203,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation (ICCV 2023) [[Paper]](https://arxiv.org/pdf/2308.07732.pdf) [[Github]](https://github.com/Haiyang-W/UniTR)
 - BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird’s Eye View Map Construction (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2309.11119.pdf)
 - BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11761)
+- OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.13137)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 - SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
@@ -406,6 +407,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08526)
 - Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08726)
 - MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.11682)
+- Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.13517) [[Github]](https://github.com/SehwanChoi0307/Mask2Map)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -527,6 +529,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
 - OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios (CVPR 2023 WorkShop) [[Paper]](https://arxiv.org/pdf/2307.10934.pdf) [[Github]](https://drive.google.com/file/d/1IFUxbx1hI7iA7uXxilfq-Z0JXMGEU2Zb/view)
 - AdaOcc: Adaptive Forward View Transformation and Flow Modeling for 3D Occupancy and Flow Prediction (CVPR 2024 Workshop) [[Paper]](https://arxiv.org/pdf/2407.01436)
+- Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.13155)
 ### Challenge
 - The 1st-place Solution for CVPR 2023 OpenLane Topologyin Autonomous Driving Challenge [[Paper]](https://arxiv.org/pdf/2306.09590.pdf)
 - MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report (CVPR 2024 Challenge) [[Paper]](https://arxiv.org/abs/2406.10125)
@@ -683,6 +686,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2402.13848)
 - EV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.06600)
 - OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11796)
+- Bosch Street Dataset: A Multi-Modal Dataset with Imaging Radar for Automated Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.12803)
+- Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.13759) [[Github]](https://boyangdeng.com/streetscapes/)
 - M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2403.12552)
 - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01413)
 - Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.06861)
