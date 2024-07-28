@@ -278,6 +278,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02008)
 - Bird's-Eye View to Street-View: A Survey (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.08961)
 - LetsMap: Unsupervised Representation Learning for Semantic BEV Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18852)
+- Navigation Instruction Generation with BEV Perception and Large Language Models (ECCV 2024) [[paper]](https://arxiv.org/abs/2407.15087) [[Github]](https://github.com/FanScy/BEVInstructor)
+- GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.14108)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -408,6 +410,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08726)
 - MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.11682)
 - Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.13517) [[Github]](https://github.com/SehwanChoi0307/Mask2Map)
+- Generation of Training Data from HD Maps in the Lanelet2 Framework (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.17409)
+- PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.17378) [[Github]](https://github.com/pnnnnnnn/PrevPredMap)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -524,6 +528,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Lift, Splat, Map: Lifting Foundation Masks for Label-Free Semantic Scene Completion (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.03425)
 - Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.07587)
 - Monocular Occupancy Prediction for Scalable Indoor Scenes (ECCV 2024) [[Paper]](https://arxiv.org/abs/2407.11730) [[Github]](https://github.com/hongxiaoy/ISO)
+- LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.17310)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
