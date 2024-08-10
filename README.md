@@ -636,6 +636,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space (Arxiv 2024) [[Paper]](https://github.com/zympsyche/BevWorld) [[Github]](https://arxiv.org/pdf/2407.05679)
 - Exploring the Causality of End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.06546) [[Github]](https://github.com/bdvisl/DriveInsight)
 - SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.21293)
+- DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.00415) [[Github]](https://github.com/PJLab-ADG/DriveArena)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
