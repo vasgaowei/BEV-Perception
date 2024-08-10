@@ -700,4 +700,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.06861)
 - MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08561)
 - AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction [[Paper]](Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.02598) [[Project]](https://autosplat.github.io/)
+- MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.19468) [[Github]](https://github.com/kkaiwwana/MVPbev)
 - UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
