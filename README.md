@@ -412,6 +412,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.13517) [[Github]](https://github.com/SehwanChoi0307/Mask2Map)
 - Generation of Training Data from HD Maps in the Lanelet2 Framework (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.17409)
 - PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.17378) [[Github]](https://github.com/pnnnnnnn/PrevPredMap)
+- CAMAv2: A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2024) [[Paper]](/https://arxiv.org/pdf/2407.21331)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -634,6 +635,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CarLLaVA: Vision language models for camera-only closed-loop driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2406.10165)
 - BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space (Arxiv 2024) [[Paper]](https://github.com/zympsyche/BevWorld) [[Github]](https://arxiv.org/pdf/2407.05679)
 - Exploring the Causality of End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.06546) [[Github]](https://github.com/bdvisl/DriveInsight)
+- SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.21293)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
