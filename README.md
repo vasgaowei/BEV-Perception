@@ -71,6 +71,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FUSIONVIT: HIERARCHICAL 3D OBJECT DETECTION VIA LIDAR-CAMERA VISION TRANSFORMER FUSION (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2311.03620.pdf)
 - Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2312.14919.pdf)
 - PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02811)
+- Learned Multimodal Compression for Autonomous Driving (IEEE MMSP 2024) [[Paper]](https://arxiv.org/pdf/2408.08211)
+- Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.07999)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
@@ -413,6 +415,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Generation of Training Data from HD Maps in the Lanelet2 Framework (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.17409)
 - PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.17378) [[Github]](https://github.com/pnnnnnnn/PrevPredMap)
 - CAMAv2: A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2024) [[Paper]](/https://arxiv.org/pdf/2407.21331)
+- HeightLane: BEV Heightmap guided 3D Lane Detection (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.08270)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
