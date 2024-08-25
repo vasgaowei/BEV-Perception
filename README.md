@@ -416,6 +416,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.17378) [[Github]](https://github.com/pnnnnnnn/PrevPredMap)
 - CAMAv2: A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2024) [[Paper]](/https://arxiv.org/pdf/2407.21331)
 - HeightLane: BEV Heightmap guided 3D Lane Detection (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.08270)
+- PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.08802)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
