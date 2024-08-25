@@ -282,6 +282,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LetsMap: Unsupervised Representation Learning for Semantic BEV Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.18852)
 - Navigation Instruction Generation with BEV Perception and Large Language Models (ECCV 2024) [[paper]](https://arxiv.org/abs/2407.15087) [[Github]](https://github.com/FanScy/BEVInstructor)
 - GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.14108)
+- MaskBEV: Towards A Unified Framework for BEV Detection and Map Segmentation (ACM MM 2024) [[paper]](https://arxiv.org/abs/2408.09122)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -536,6 +537,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.17310)
 - VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.03551)
 - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.03790) [[Github]](https://github.com/chreisinger/ViLGOD)
+- OccMamba: Semantic Occupancy Prediction with State Space Models (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.09859)
+- HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction (IEEE RAL 2024) [[paper]](https://arxiv.org/abs/2408.09104)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
