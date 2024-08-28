@@ -539,6 +539,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.03790) [[Github]](https://github.com/chreisinger/ViLGOD)
 - OccMamba: Semantic Occupancy Prediction with State Space Models (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.09859)
 - HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction (IEEE RAL 2024) [[paper]](https://arxiv.org/abs/2408.09104)
+- Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.11559)
+- MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering (Arxiv 2024) [[paper]](https://arxiv.org/abs/2408.11464) [[Project]](https://ganwanshui.github.io/GaussianOcc/) [[Github]](https://github.com/Hub-Tian/MambaOcc)
+- GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting (Arxiv 2024) [[paper]](https://ganwanshui.github.io/GaussianOcc/) [[Github]](https://github.com/GANWANSHUI/GaussianOcc)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
