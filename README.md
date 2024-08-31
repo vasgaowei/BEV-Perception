@@ -190,7 +190,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.10577)
 -  BEVSpread: Spread Voxel Pooling for Bird’s-Eye-View Representation in Vision-based Roadside 3D Object Detection (CVPR 2024) [[Paper]]() [[Github]](https://github.com/DaTongjie/BEVSpread)
 -  OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10753) [[Github]](https://github.com/AlmoonYsl/OPEN)
--  FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10135) 
+-  FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10135)
+-  PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16200)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -542,6 +543,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.11559)
 - MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering (Arxiv 2024) [[paper]](https://arxiv.org/abs/2408.11464) [[Project]](https://ganwanshui.github.io/GaussianOcc/) [[Github]](https://github.com/Hub-Tian/MambaOcc)
 - GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting (Arxiv 2024) [[paper]](https://ganwanshui.github.io/GaussianOcc/) [[Github]](https://github.com/GANWANSHUI/GaussianOcc)
+- AdaOcc: Adaptive-Resolution Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.13454)
+- Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.14846)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -653,6 +656,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Open 3D World in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.10880)
 - CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.10845)
 - Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.14197)
+- DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16647)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -720,3 +724,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.19468) [[Github]](https://github.com/kkaiwwana/MVPbev)
 - SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.01812) [[Github]](https://opendatalab.github.io/skydiffusion/)
 - UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
+- BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
