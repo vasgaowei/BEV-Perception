@@ -652,6 +652,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.03516)
 - Open 3D World in Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.10880)
 - CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.10845)
+- Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.14197)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
