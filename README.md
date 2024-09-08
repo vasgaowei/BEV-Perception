@@ -192,6 +192,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10753) [[Github]](https://github.com/AlmoonYsl/OPEN)
 -  FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection (ECCV 2024) [[Paper]](https://arxiv.org/pdf/2407.10135)
 -  PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16200)
+-  GeoBEV: Learning Geometric BEV Representation for Multi-view 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.01816)
+-  Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.00633) [[Github]](https://github.com/DYZhang09/ToC3D)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -239,6 +241,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2310.02815.pdf)
 - SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.20318) [[Github]](https://github.com/abhi1kumar/SeaBird)
 - DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06352) [[Github]](https://streamable.com/ge4v51)
+- Improved Single Camera BEV Perception Using Multi-Camera Training (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.02676)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -419,6 +422,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CAMAv2: A Vision-Centric Approach for Static Map Element Annotation (Arxiv 2024) [[Paper]](/https://arxiv.org/pdf/2407.21331)
 - HeightLane: BEV Heightmap guided 3D Lane Detection (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2408.08270)
 - PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.08802)
+- Local map Construction Methods with SD map: A Novel Survey (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.02415)
+- Enhancing Vectorized Map Perception with Historical Rasterized Maps (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.00620) [[Github]](https://github.com/HXMap/HRMapNet)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -657,6 +662,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.10845)
 - Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.14197)
 - DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16647)
+- OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.03272)
+- Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.02914)
+- ContextVLM: Zero-Shot and Few-Shot Context Understanding for Autonomous Driving using Vision Language Models (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.00301)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -724,4 +732,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.19468) [[Github]](https://github.com/kkaiwwana/MVPbev)
 - SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.01812) [[Github]](https://opendatalab.github.io/skydiffusion/)
 - UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
+- From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model (ICRA 2024) [[Paper]](https://arxiv.org/abs/2409.01014)
 - BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
