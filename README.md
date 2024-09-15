@@ -665,6 +665,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.03272)
 - Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.02914)
 - ContextVLM: Zero-Shot and Few-Shot Context Understanding for Autonomous Driving using Vision Language Models (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.00301)
+- MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.07267)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -733,4 +734,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.01812) [[Github]](https://opendatalab.github.io/skydiffusion/)
 - UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
 - From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model (ICRA 2024) [[Paper]](https://arxiv.org/abs/2409.01014)
+- DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.05463) [[Project]](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 - BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
