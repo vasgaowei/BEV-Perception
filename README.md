@@ -424,6 +424,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.08802)
 - Local map Construction Methods with SD map: A Novel Survey (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.02415)
 - Enhancing Vectorized Map Perception with Historical Rasterized Maps (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.00620) [[Github]](https://github.com/HXMap/HRMapNet)
+- GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.08688v1) [[Github]](https://github.com/lynn-yu/GenMapping?tab=readme-ov-file)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
