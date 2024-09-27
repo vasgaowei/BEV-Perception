@@ -59,6 +59,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception (ICLRW 2023) [[Paper]](https://arxiv.org/pdf/2304.00670.pdf)
 - RC-BEVFusion: A Plug-In Module for Radar-CameraBird’s Eye View Feature Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15883.pdf)
 - RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16440) [[Github]](https://github.com/VDIGPKU/RCBEVDet)
+- UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.14751)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -290,6 +291,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Robust Bird’s Eye View Segmentation by Adapting DINOv2 (ECCV 2024 Workshop) [[Paper]](https://arxiv.org/pdf/2409.10228)
 - Unveiling the Black Box: Independent Functional Module Evaluation for Bird’s-Eye-View Perception Model (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.11969)
 - RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.11706)
+- OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping (ACCV 2024) [[Paper]](https://arxiv.org/abs/2409.13912) [[Github]](https://github.com/JialeWei/OneBEV)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -559,6 +561,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.14846)
 - UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.11160)
 - COCO-Occ: A Benchmark for Occluded Panoptic Segmentation and Image Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.12760)
+- CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.13430) [[Github]](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
