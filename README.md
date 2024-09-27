@@ -562,6 +562,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.11160)
 - COCO-Occ: A Benchmark for Occluded Panoptic Segmentation and Image Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.12760)
 - CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.13430) [[Github]](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)
+- ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.18026)
+- DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.18092)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
