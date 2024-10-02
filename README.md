@@ -361,6 +361,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Occlusion-Aware 2D and 3D Centerline Detection for Urban Driving via Automatic Label Generation (ARXIV 2023) [[PAPER]](https://arxiv.org/pdf/2311.02044.pdf)
 - BUILDING LANE-LEVEL MAPS FROM AERIAL IMAGES (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2312.13449.pdf)
 - LaneCPP: Continuous 3D Lane Detection using Physical Priors (CVPR 2024) [[Paper]](https://arxiv.org/pdf/2406.08381)
+- DeepAerialMapper: Deep Learning-based Semi-automatic HD Map Creation for Highly Automated Vehicles (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.00769) [[Github]]()
 #### Multiple Camera
 - PersFormer: a New Baseline for 3D Laneline Detection (ECCV 2022) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980539.pdf) [[Github]](https://github.com/OpenDriveLab/PersFormer_3DLane)
 - Continuity-preserving Path-wise Modeling for Online Lane Graph Construction (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2303.08815.pdf) [[Github]](https://github.com/hustvl/LaneGAP)
@@ -565,6 +566,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.13430) [[Github]](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)
 - ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.18026)
 - DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.18092)
+- SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.00337)
+- OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19987) [[Github]](https://github.com/jmwang0117/OccRWKV) [[Project]](https://jmwang0117.github.io/OccRWKV/)
+- DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19972) [[Github]](https://github.com/AlphaPlusTT/DAOcc)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
