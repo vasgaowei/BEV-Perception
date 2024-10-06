@@ -569,6 +569,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.00337)
 - OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19987) [[Github]](https://github.com/jmwang0117/OccRWKV) [[Project]](https://jmwang0117.github.io/OccRWKV/)
 - DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19972) [[Github]](https://github.com/AlphaPlusTT/DAOcc)
+- OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.01261)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -690,6 +691,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.12753) [[Project]](https://fangzhou2000.github.io/projects/drivingforward/) [[Github]](https://github.com/fangzhou2000/DrivingForward)
 - METDrive: Multi-modal End-to-end Autonomous Driving with Temporal Guidance (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2409.12667)
 - DOES END-TO-END AUTONOMOUS DRIVING REALLY NEED PERCEPTION TASKS? (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18341)
+- Learning to Drive via Asymmetric Self-Play (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18218)
+- Uncertainty-Guided Enhancement on Driving Perception System via Foundation Models (Arxiv 2024) [[paper]](https://arxiv.org/abs/2410.01144)
+- ScVLM: a Vision-Language Model for Driving Safety Critical Event Understanding (Arxiv) [[Paper]](https://arxiv.org/abs/2410.00982)
 - Learning to Drive via Asymmetric Self-Play (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18218)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
