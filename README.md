@@ -433,6 +433,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.08688v1) [[Github]](https://github.com/lynn-yu/GenMapping?tab=readme-ov-file)
 - GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction (Arxiv 2024) [[paper]] (https://arxiv.org/abs/2409.10063)
 - MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18737)
+- MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07733)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -695,6 +696,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Uncertainty-Guided Enhancement on Driving Perception System via Foundation Models (Arxiv 2024) [[paper]](https://arxiv.org/abs/2410.01144)
 - ScVLM: a Vision-Language Model for Driving Safety Critical Event Understanding (Arxiv) [[Paper]](https://arxiv.org/abs/2410.00982)
 - Learning to Drive via Asymmetric Self-Play (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18218)
+- HE-Drive: Human-Like End-to-End Driving with Vision Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.05051) [[Project]](https://jmwang0117.github.io/HE-Drive/) [[Paper]](https://github.com/jmwang0117/HE-Drive)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
@@ -758,10 +760,12 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.01413)
 - Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.06861)
 - MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.08561)
+- Neural Semantic Map-Learning for Autonomous Vehicles (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.07780)
 - AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction [[Paper]](Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.02598) [[Project]](https://autosplat.github.io/)
 - MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability (Arxiv 2024) [[paper]](https://arxiv.org/abs/2407.19468) [[Github]](https://github.com/kkaiwwana/MVPbev)
 - SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.01812) [[Github]](https://opendatalab.github.io/skydiffusion/)
 - UrbanWorld: An Urban World Model for 3D City Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2407.11965)
 - From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model (ICRA 2024) [[Paper]](https://arxiv.org/abs/2409.01014)
+- Learning Content-Aware Multi-Modal Joint Input Pruning via Bird's-Eye-View Representation (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07268)
 - DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.05463) [[Project]](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 - BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
