@@ -195,6 +195,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16200)
 -  GeoBEV: Learning Geometric BEV Representation for Multi-view 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.01816)
 -  Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.00633) [[Github]](https://github.com/DYZhang09/ToC3D)
+-  MambaBEV: An efficient 3D detection model with Mamba2 (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.12673)
+-  ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.10298)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -434,6 +436,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction (Arxiv 2024) [[paper]] (https://arxiv.org/abs/2409.10063)
 - MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18737)
 - MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07733)
+- Exploring Semi-Supervised Learning for Online Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.10279)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -697,6 +700,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ScVLM: a Vision-Language Model for Driving Safety Critical Event Understanding (Arxiv) [[Paper]](https://arxiv.org/abs/2410.00982)
 - Learning to Drive via Asymmetric Self-Play (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.18218)
 - HE-Drive: Human-Like End-to-End Driving with Vision Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.05051) [[Project]](https://jmwang0117.github.io/HE-Drive/) [[Paper]](https://github.com/jmwang0117/HE-Drive)
+- UniDrive: Towards Universal Driving Perception Across Camera Configurations (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.13864) [[Github]](https://github.com/ywyeli/UniDrive)
+- DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2410.13571) [[Github]](https://github.com/GigaAI-research/DriveDreamer4D) [[Project]](https://drivedreamer4d.github.io/)
+- DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2410.10738) [[Project]](https://drivingdojo.github.io/) [[Github]](https://github.com/Robertwyq/Drivingdojo)
 ### Other
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
