@@ -245,6 +245,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.20318) [[Github]](https://github.com/abhi1kumar/SeaBird)
 - DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06352) [[Github]](https://streamable.com/ge4v51)
 - Improved Single Camera BEV Perception Using Multi-Camera Training (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.02676)
+- Focus on BEV: Self-calibrated Cycle View Transformation for Monocular Birds-Eye-View Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.15932)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -587,6 +588,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark (CVPR 2023) [[paper]](https://arxiv.org/pdf/2212.08914.pdf) [[Github]](https://github.com/JeffWang987/ASAP)
 - SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions (IV 2024) [[Paper]](https://arxiv.org/abs/2406.09945) [[Project]](https://semantic-spray-dataset.github.io/) [[Github]](https://github.com/uulm-mrm/semantic_spray_dataset)
 - WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2407.08280) [[Project]](https://wayve.ai/science/wayvescenes101/) [[Github]](https://github.com/wayveai/wayve_scenes)
+- WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.15792) [[Github]](https://github.com/LedKashmir/WildOcc)
 ### World Model
 - End-to-end Autonomous Driving: Challenges and Frontiers (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2306.16927.pdf) [[Github]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
 - Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving (ICRA 2024) [[paper]](https://arxiv.org/pdf/2310.02251.pdf) [[Github]](https://github.com/llmbev/talk2bev) [[Project]](https://llmbev.github.io/talk2bev/)
