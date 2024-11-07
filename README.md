@@ -451,6 +451,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning Lane Graphs from Aerial Imagery Using Transformers (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.05687)
 - TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.11325)
 - LMT-Net: Lane Model Transformer Network for Automated HD Mapping from Sparse Vehicle Observations (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.12409)
+- Behavioral Topology (BeTop), a multi-agent behavior formulation for interactive motion prediction and planning (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2409.18031) [[Github]](https://github.com/OpenDriveLab/BeTop)
 ### Tracking
 - Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.05216.pdf) [[Github]](https://github.com/Jasonkks/PTTR)
 - EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View (Arxiv 2023) [[paper]](https://arxiv.org/pdf/2310.13350.pdf) [[Github]](https://github.com/tteepe/EarlyBird)
