@@ -297,6 +297,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Unveiling the Black Box: Independent Functional Module Evaluation for Bird’s-Eye-View Perception Model (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.11969)
 - RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.11706)
 - OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping (ACCV 2024) [[Paper]](https://arxiv.org/abs/2409.13912) [[Github]](https://github.com/JialeWei/OneBEV)
+- ROAD-Waymo: Action Awareness at Scale for Autonomous Driving (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2411.01618) [[Github]](https://github.com/Z1zyw/VQ-Map)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -441,6 +442,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07733)
 - Exploring Semi-Supervised Learning for Online Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.10279)
 - OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23278) [[Github]](https://github.com/bjzhb666/get_google_maps_image) [[Project]](https://opensatmap.github.io/)
+- HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning (WACV 2025) [[Paper]](https://arxiv.org/abs/2411.01408) [[Github]]()
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -712,6 +714,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EMMA: End-to-End Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23262) [[Github]](https://waymo.com/blog/2024/10/introducing-emma/)
 - Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.22313) [[Github]](https://github.com/hustvl/Senna)
 ### Other
+- X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
 - ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2210.06332.pdf)
