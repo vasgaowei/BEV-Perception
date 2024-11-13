@@ -581,6 +581,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19987) [[Github]](https://github.com/jmwang0117/OccRWKV) [[Project]](https://jmwang0117.github.io/OccRWKV/)
 - DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19972) [[Github]](https://github.com/AlphaPlusTT/DAOcc)
 - OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.01261)
+- OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.03696)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
