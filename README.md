@@ -299,6 +299,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2409.11706)
 - OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping (ACCV 2024) [[Paper]](https://arxiv.org/abs/2409.13912) [[Github]](https://github.com/JialeWei/OneBEV)
 - ROAD-Waymo: Action Awareness at Scale for Autonomous Driving (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2411.01618) [[Github]](https://github.com/Z1zyw/VQ-Map)
+- Fast and Efficient Transformer-based Method for Bird’s Eye View Instance Prediction (IEEE ITSC 2024) [[Paper]](https://arxiv.org/pdf/2411.06851) [[Github]](https://github.com/miguelag99/Efficient-Instance-Prediction)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
