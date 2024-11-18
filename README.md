@@ -74,6 +74,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2405.02811)
 - Learned Multimodal Compression for Autonomous Driving (IEEE MMSP 2024) [[Paper]](https://arxiv.org/pdf/2408.08211)
 - Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.07999)
+- SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.05292)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
