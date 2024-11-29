@@ -444,7 +444,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07733)
 - Exploring Semi-Supervised Learning for Online Mapping (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.10279)
 - OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23278) [[Github]](https://github.com/bjzhb666/get_google_maps_image) [[Project]](https://opensatmap.github.io/)
-- HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning (WACV 2025) [[Paper]](https://arxiv.org/abs/2411.01408) [[Github]]()
+- HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning (WACV 2025) [[Paper]](https://arxiv.org/abs/2411.01408) [[Github]](https://github.com/adasfag/HeightMapNet/)
+- M3TR: Generalist HD Map Construction with Variable Map Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.10316) [[Github]](https://github.com/immel-f/m3tr)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -584,6 +585,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.19972) [[Github]](https://github.com/AlphaPlusTT/DAOcc)
 - OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.01261)
 - OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.03696)
+- Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting(Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14169)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -716,6 +718,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2410.10738) [[Project]](https://drivingdojo.github.io/) [[Github]](https://github.com/Robertwyq/Drivingdojo)
 - EMMA: End-to-End Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23262) [[Github]](https://waymo.com/blog/2024/10/introducing-emma/)
 - Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.22313) [[Github]](https://github.com/hustvl/Senna)
+- MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13807) [[Github]](https://github.com/flymin/MagicDriveDiT) [[Project]](https://gaoruiyuan.com/magicdrivedit/)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
@@ -789,3 +792,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learning Content-Aware Multi-Modal Joint Input Pruning via Bird's-Eye-View Representation (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2410.07268)
 - DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.05463) [[Project]](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 - BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
+- Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13626)
