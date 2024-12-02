@@ -446,6 +446,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23278) [[Github]](https://github.com/bjzhb666/get_google_maps_image) [[Project]](https://opensatmap.github.io/)
 - HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning (WACV 2025) [[Paper]](https://arxiv.org/abs/2411.01408) [[Github]](https://github.com/adasfag/HeightMapNet/)
 - M3TR: Generalist HD Map Construction with Variable Map Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.10316) [[Github]](https://github.com/immel-f/m3tr)
+- - TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14751)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -719,6 +720,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - EMMA: End-to-End Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23262) [[Github]](https://waymo.com/blog/2024/10/introducing-emma/)
 - Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.22313) [[Github]](https://github.com/hustvl/Senna)
 - MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13807) [[Github]](https://github.com/flymin/MagicDriveDiT) [[Project]](https://gaoruiyuan.com/magicdrivedit/)
+- DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.15139) [[Github]](https://github.com/hustvl/DiffusionDrive)
+- VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14716)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
