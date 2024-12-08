@@ -60,6 +60,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RC-BEVFusion: A Plug-In Module for Radar-CameraBird’s Eye View Feature Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2305.15883.pdf)
 - RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16440) [[Github]](https://github.com/VDIGPKU/RCBEVDet)
 - UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.14751)
+- SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2411.19860) [[Github]](https://github.com/phi-wol/sparc)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -587,6 +588,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.01261)
 - OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.03696)
 - Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting(Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14169)
+- ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2411.19548) [[Github]](https://github.com/GigaAI-research/ReconDreamer) [[Project]](https://recondreamer.github.io/)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
