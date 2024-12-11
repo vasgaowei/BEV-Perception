@@ -726,6 +726,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.15139) [[Github]](https://github.com/hustvl/DiffusionDrive)
 - VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14716)
 - Language Driven Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.16072) [[Github]](https://github.com/pkqbajng/LOcc)
+- Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03520) [[Project]](https://luhannan.github.io/CogDrivingPage/)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
