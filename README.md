@@ -590,6 +590,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.03696)
 - Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting(Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14169)
 - ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2411.19548) [[Github]](https://github.com/GigaAI-research/ReconDreamer) [[Project]](https://recondreamer.github.io/)
+- EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.04380) [[Github]](https://github.com/YkiWu/EmbodiedOcc)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -727,6 +728,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14716)
 - Language Driven Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.16072) [[Github]](https://github.com/pkqbajng/LOcc)
 - Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03520) [[Project]](https://luhannan.github.io/CogDrivingPage/)
+- InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03934) [[Github]](https://research.nvidia.com/labs/toronto-ai/infinicube/)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
