@@ -729,6 +729,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Language Driven Occupancy Prediction (Arxiv 2024) [[paper]](https://arxiv.org/abs/2411.16072) [[Github]](https://github.com/pkqbajng/LOcc)
 - Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03520) [[Project]](https://luhannan.github.io/CogDrivingPage/)
 - InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03934) [[Github]](https://research.nvidia.com/labs/toronto-ai/infinicube/)
+- Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05280) [[Github]](https://github.com/wzzheng/Stag)
+- UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.04842)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
