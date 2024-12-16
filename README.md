@@ -591,6 +591,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting(Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14169)
 - ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2411.19548) [[Github]](https://github.com/GigaAI-research/ReconDreamer) [[Project]](https://recondreamer.github.io/)
 - EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.04380) [[Github]](https://github.com/YkiWu/EmbodiedOcc)
+- PVP: Polar Representation Boost for 3D Semantic Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07616)
+- Fast Occupancy Network (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07163)
+- Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction (ARxiv 2024) [[Paper]](https://arxiv.org/abs/2412.05976)
+- doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05893) [[Github]](https://github.com/rossgreer/doScenes)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -731,6 +735,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.03934) [[Github]](https://research.nvidia.com/labs/toronto-ai/infinicube/)
 - Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05280) [[Github]](https://github.com/wzzheng/Stag)
 - UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.04842)
+- Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.06777) [[Github]](https://github.com/Barrybarry-Smith/Driv3R)
+- DriveMM: All-in-One Large Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07689) [[Github]](https://github.com/zhijian11/DriveMM)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
