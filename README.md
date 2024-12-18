@@ -595,6 +595,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Fast Occupancy Network (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07163)
 - Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction (ARxiv 2024) [[Paper]](https://arxiv.org/abs/2412.05976)
 - doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05893) [[Github]](https://github.com/rossgreer/doScenes)
+- LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba (AAAI 2025) [[paper]](https://arxiv.org/abs/2412.08388)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -737,6 +738,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.04842)
 - Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.06777) [[Github]](https://github.com/Barrybarry-Smith/Driv3R)
 - DriveMM: All-in-One Large Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07689) [[Github]](https://github.com/zhijian11/DriveMM)
+- Physical Informed Driving World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08410) [[Github]](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
