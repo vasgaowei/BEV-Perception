@@ -739,6 +739,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.06777) [[Github]](https://github.com/Barrybarry-Smith/Driv3R)
 - DriveMM: All-in-One Large Multimodal Model for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.07689) [[Github]](https://github.com/zhijian11/DriveMM)
 - Physical Informed Driving World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08410) [[Github]](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
+- GPD-1: Generative Pre-training for Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08643) [[Github]](https://github.com/wzzheng/GPD)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
