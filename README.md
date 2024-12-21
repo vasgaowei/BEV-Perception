@@ -200,6 +200,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression (ECCV 2024) [[Paper]](https://arxiv.org/abs/2409.00633) [[Github]](https://github.com/DYZhang09/ToC3D)
 -  MambaBEV: An efficient 3D detection model with Mamba2 (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.12673)
 -  ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.10298)
+-  Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.07768)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
