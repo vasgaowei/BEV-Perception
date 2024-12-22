@@ -76,6 +76,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Learned Multimodal Compression for Autonomous Driving (IEEE MMSP 2024) [[Paper]](https://arxiv.org/pdf/2408.08211)
 - Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.07999)
 - SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.05292)
+- Timealign: A Multi-Modal Object Detection Method For Time Misalignment Fusing In Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.10033)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
@@ -597,6 +598,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction (ARxiv 2024) [[Paper]](https://arxiv.org/abs/2412.05976)
 - doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05893) [[Github]](https://github.com/rossgreer/doScenes)
 - LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba (AAAI 2025) [[paper]](https://arxiv.org/abs/2412.08388)
+- GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.10373) [[Github]](https://github.com/zuosc19/GaussianWorld)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -742,6 +744,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Physical Informed Driving World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08410) [[Github]](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
 - GPD-1: Generative Pre-training for Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08643) [[Github]](https://github.com/wzzheng/GPD)
 - Doe-1: Closed-Loop Autonomous Driving with Large World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.09627) [[Github]](https://github.com/wzzheng/Doe)
+- GaussianAD: Gaussian-Centric End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.10371) [[Github]](https://github.com/wzzheng/GaussianAD)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
