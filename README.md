@@ -52,6 +52,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D DynamicObject Detection (CVPR 2023) [[paper]](https://arxiv.org/pdf/2306.01438.pdf) [[Github]](https://github.com/JessieW0806/Bi-LRFusion)
 - MaskBEV: Joint Object Detection and Footprint Completion for Bird’s-eye View 3D Point Clouds (IORS 2023) [[Paper]](https://arxiv.org/pdf/2307.01864.pdf) [[Github]](https://github.com/norlab-ulaval/mask_bev)
 - LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.00724.pdf)
+- HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.11489) [[Github]](https://github.com/garfield-cpp/HGSFusion)
 #### Radar Camera
 - CRAFT: Camera-Radar 3D Object Detectionwith Spatio-Contextual Fusion Transformer (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - RadSegNet: A Reliable Approach to Radar Camera Fusion (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2208.03849.pdf)
@@ -599,6 +600,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.05893) [[Github]](https://github.com/rossgreer/doScenes)
 - LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba (AAAI 2025) [[paper]](https://arxiv.org/abs/2412.08388)
 - GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.10373) [[Github]](https://github.com/zuosc19/GaussianWorld)
+- ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction (AAAI 2025) [[Paper]](https://arxiv.org/abs/2412.11210) [[Github]](https://github.com/fengyi233/ViPOcc) [[Github]](https://mias.group/ViPOcc/)
+- OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.11183)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
