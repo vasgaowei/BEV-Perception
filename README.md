@@ -822,5 +822,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2409.05463) [[Project]](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 - BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2408.16322)
 - Bench2Drive-R: Turning Real World Data into Reactive Closed-Loop Autonomous Driving Benchmark by Generative Model (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.09647)
+- RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.10734)
+- OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.10734)
 - Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13626)
 - HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.01407)
