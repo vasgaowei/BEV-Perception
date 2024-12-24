@@ -602,6 +602,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.10373) [[Github]](https://github.com/zuosc19/GaussianWorld)
 - ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction (AAAI 2025) [[Paper]](https://arxiv.org/abs/2412.11210) [[Github]](https://github.com/fengyi233/ViPOcc) [[Github]](https://mias.group/ViPOcc/)
 - OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.11183)
+- ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder (AAAI 2025 Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.08774) [[Paper]](https://github.com/SPA-junghokim/ProtoOcc)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -748,6 +749,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GPD-1: Generative Pre-training for Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.08643) [[Github]](https://github.com/wzzheng/GPD)
 - Doe-1: Closed-Loop Autonomous Driving with Large World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.09627) [[Github]](https://github.com/wzzheng/Doe)
 - GaussianAD: Gaussian-Centric End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.10371) [[Github]](https://github.com/wzzheng/GaussianAD)
+- DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.09043) [[Github]](https://github.com/EnVision-Research/DriveRecon)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
@@ -824,5 +826,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Bench2Drive-R: Turning Real World Data into Reactive Closed-Loop Autonomous Driving Benchmark by Generative Model (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.09647)
 - RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.10734)
 - OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.10734)
+- Hidden Biases of End-to-End Driving Datasets (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.09602) [[Github]](https://github.com/autonomousvision/carla_garage)
 - Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13626)
 - HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.01407)
