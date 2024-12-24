@@ -62,6 +62,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection (CVPR 2024) [[Paper]](https://arxiv.org/abs/2403.16440) [[Github]](https://github.com/VDIGPKU/RCBEVDet)
 - UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2409.14751)
 - SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2411.19860) [[Github]](https://github.com/phi-wol/sparc)
+- RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection (AAAI 2025 2024) [[Paper]](https://arxiv.org/pdf/2412.12799) [[Github]](https://github.com/liyih/RCTrans)
 #### Lidar Camera
 - Semantic bevfusion: rethink lidar-camera fusion in unified bird’s-eye view representation for 3d object detection (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2212.04675.pdf)
 - Sparse Dense Fusion for 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2304.04179.pdf)
@@ -750,6 +751,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Doe-1: Closed-Loop Autonomous Driving with Large World Model (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.09627) [[Github]](https://github.com/wzzheng/Doe)
 - GaussianAD: Gaussian-Centric End-to-End Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.10371) [[Github]](https://github.com/wzzheng/GaussianAD)
 - DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.09043) [[Github]](https://github.com/EnVision-Research/DriveRecon)
+- SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2412.12129)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
