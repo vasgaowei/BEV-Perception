@@ -220,6 +220,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2403.11761)
 - OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2407.13137)
 - BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment (IROS 2024) [[Paper]](https://arxiv.org/pdf/2410.20969) [[Project]](https://m80hz.github.io/bevpose/)
+- PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation (AAAI 2025) [[paper]](https://arxiv.org/abs/2412.14821) [[Paper]](https://github.com/skyshoumeng/PC-BEV)
 #### Lidar
 - LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2206.11428.pdf)
 - SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.13323.pdf)
@@ -754,6 +755,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout (NeurIPS 2024) [[paper]](https://arxiv.org/pdf/2412.12129)
 - Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.14058) [[Github]](https://robovlms.github.io/)
 - An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.13772)
+- OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.15208) [[paper]](https://github.com/taco-group/OpenEMMA)
+- AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.15206) [[Github]](https://github.com/taco-group/AutoTrust)
+- VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.14446)
+- DriveGPT: Scaling Autoregressive Behavior Models for Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.14415)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
