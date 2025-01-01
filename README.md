@@ -204,6 +204,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  MambaBEV: An efficient 3D detection model with Mamba2 (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.12673)
 -  ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.10298)
 -  Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.07768)
+-  HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.18884)
+-  TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.20911) [[Github]](https://github.com/Public-BOTs/TiGDistill-BEV)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -255,6 +257,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2404.06352) [[Github]](https://streamable.com/ge4v51)
 - Improved Single Camera BEV Perception Using Multi-Camera Training (ITSC 2024) [[Paper]](https://arxiv.org/abs/2409.02676)
 - Focus on BEV: Self-calibrated Cycle View Transformation for Monocular Birds-Eye-View Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2410.15932)
+- Geo-ConvGRU: Geographically Masked Convolutional Gated Recurrent Unit for Bird-Eye View Segmentation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.20171)
 #### Multiple Camera
 - A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View （IEEE ITSC 2020）[[Paper]](https://arxiv.org/pdf/2005.04078.pdf) [[Github]](https://github.com/ika-rwth-aachen/Cam2BEV)
 - Cross-view Semantic Segmentation for Sensing Surroundings (IROS 2020 IEEE RA-L 2020) [[Paper]](https://arxiv.org/pdf/1906.03560.pdf) [[Github]](https://github.com/pbw-Berwin/View-Parsing-Network) [[Project]](https://decisionforce.github.io/VPN/)
@@ -453,7 +456,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2410.23278) [[Github]](https://github.com/bjzhb666/get_google_maps_image) [[Project]](https://opensatmap.github.io/)
 - HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning (WACV 2025) [[Paper]](https://arxiv.org/abs/2411.01408) [[Github]](https://github.com/adasfag/HeightMapNet/)
 - M3TR: Generalist HD Map Construction with Variable Map Priors (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.10316) [[Github]](https://github.com/immel-f/m3tr)
-- - TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14751)
+- TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14751)
+- ImagineMap: Enhanced HD Map Construction with SD Maps (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.16938)
+- Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression (TPAMI 2025) [[paper]](https://arxiv.org/abs/2412.16889) [[Github]](https://github.com/tusen-ai/Anchor3DLane)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -605,6 +610,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction (AAAI 2025) [[Paper]](https://arxiv.org/abs/2412.11210) [[Github]](https://github.com/fengyi233/ViPOcc) [[Github]](https://mias.group/ViPOcc/)
 - OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.11183)
 - ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder (AAAI 2025 Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.08774) [[Paper]](https://github.com/SPA-junghokim/ProtoOcc)
+- MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.20480)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -759,6 +765,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.15206) [[Github]](https://github.com/taco-group/AutoTrust)
 - VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.14446)
 - DriveGPT: Scaling Autoregressive Behavior Models for Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.14415)
+- DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.18607)
+- UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.18131)
+- DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.19505) [[Github]](https://github.com/YvanYin/DrivingWorld)
 ### Other
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
@@ -837,5 +846,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.10734)
 - Hidden Biases of End-to-End Driving Datasets (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.09602) [[Github]](https://github.com/autonomousvision/carla_garage)
 - Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.13626)
+- VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.15544) [[Project]](https://www.huang-zilin.com/VLM-RL-website/) [[Github]](https://github.com/zihaosheng/VLM-RL)
+- OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2412.17226) [[Project]](https://yanty123.github.io/OLiDM/) [[Github]](https://github.com/yanty123/OLiDM)
+- DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.19458) [[Project]](https://yvanliang.github.io/DriveEditor/) [[Github]](https://github.com/yvanliang/DriveEditor)
 - HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.01407)
 - Joint Perception and Prediction for Autonomous Driving: A Survey (Arxiv 2024) [[paper]](Joint Perception and Prediction for Autonomous Driving: A Survey)
