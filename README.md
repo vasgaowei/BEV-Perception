@@ -459,6 +459,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.14751)
 - ImagineMap: Enhanced HD Map Construction with SD Maps (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.16938)
 - Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression (TPAMI 2025) [[paper]](https://arxiv.org/abs/2412.16889) [[Github]](https://github.com/tusen-ai/Anchor3DLane)
+- LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating (KDD 2025) [[Paper]](https://arxiv.org/pdf/2501.02763)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
