@@ -769,7 +769,11 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.18607)
 - UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.18131)
 - DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.19505) [[Github]](https://github.com/YvanYin/DrivingWorld)
+- AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.04969) [[Github]](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
+- DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.04671)
+- Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.04003) [[Github]](https://drive-bench.github.io/)
 ### Other
+- LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
 - Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2010.01191.pdf) [[Github]](https://github.com/vincentcartillier/Semantic-MapNet) [[Project]](https://vincentcartillier.github.io/smnet.html) 
 - Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers (WACV 2023) [[Paper]](Trans4Map: Revisiting Holistic Bird’s-Eye-View Mapping from EgocentricImages to Allocentric Semantics with Vision Transformers)
