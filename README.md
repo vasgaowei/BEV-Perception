@@ -310,6 +310,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ROAD-Waymo: Action Awareness at Scale for Autonomous Driving (NeurIPS 2024) [[Paper]](https://arxiv.org/abs/2411.01618) [[Github]](https://github.com/Z1zyw/VQ-Map)
 - Fast and Efficient Transformer-based Method for Bird’s Eye View Instance Prediction (IEEE ITSC 2024) [[Paper]](https://arxiv.org/pdf/2411.06851) [[Github]](https://github.com/miguelag99/Efficient-Instance-Prediction)
 - Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation (WACV 2025) [[paper]](https://arxiv.org/abs/2412.01595)
+- Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2 (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.08118)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -460,6 +461,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ImagineMap: Enhanced HD Map Construction with SD Maps (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.16938)
 - Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression (TPAMI 2025) [[paper]](https://arxiv.org/abs/2412.16889) [[Github]](https://github.com/tusen-ai/Anchor3DLane)
 - LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating (KDD 2025) [[Paper]](https://arxiv.org/pdf/2501.02763)
+- MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis (Arxiv 2025) [[paper]](https://arxiv.org/pdf/2501.06660)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -612,6 +614,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.11183)
 - ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder (AAAI 2025 Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.08774) [[Paper]](https://github.com/SPA-junghokim/ProtoOcc)
 - MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.20480)
+- Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion (AAAI 2025) [[Paper]](https://arxiv.org/pdf/2501.07260)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -772,6 +775,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.04969) [[Github]](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
 - DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.04671)
 - Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.04003) [[Github]](https://drive-bench.github.io/)
+- Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.06680)
+- Distilling Multi-modal Large Language Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.09757)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
