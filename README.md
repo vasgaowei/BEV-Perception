@@ -777,6 +777,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.04003) [[Github]](https://drive-bench.github.io/)
 - Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.06680)
 - Distilling Multi-modal Large Language Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.09757)
+- A Survey of World Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.11260)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
