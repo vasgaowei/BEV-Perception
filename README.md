@@ -863,3 +863,4 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.19458) [[Project]](https://yvanliang.github.io/DriveEditor/) [[Github]](https://github.com/yvanliang/DriveEditor)
 - HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.01407)
 - Joint Perception and Prediction for Autonomous Driving: A Survey (Arxiv 2024) [[paper]](Joint Perception and Prediction for Autonomous Driving: A Survey)
+- 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.14605)
