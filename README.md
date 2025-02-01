@@ -781,6 +781,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Distilling Multi-modal Large Language Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.09757)
 - A Survey of World Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.11260)
 - HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.14729) [[Paper]](https://github.com/LMD0311/HERMES)
+- SSF: Sparse Long-Range Scene Flow for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.17821)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
