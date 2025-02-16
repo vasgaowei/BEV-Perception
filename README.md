@@ -619,6 +619,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion (AAAI 2025) [[Paper]](https://arxiv.org/pdf/2501.07260)
 - Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.15394)
 - MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.15384) [[Github]](https://github.com/LucasYang567/MetaOcc)
+- OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.04981)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
