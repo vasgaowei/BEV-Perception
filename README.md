@@ -463,6 +463,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating (KDD 2025) [[Paper]](https://arxiv.org/pdf/2501.02763)
 - MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis (Arxiv 2025) [[paper]](https://arxiv.org/pdf/2501.06660)
 - Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.08974)
+- Leveraging V2X for Collaborative HD Maps Construction Using Scene Graph Generation (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.10127)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -620,6 +621,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.15394)
 - MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.15384) [[Github]](https://github.com/LucasYang567/MetaOcc)
 - OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.04981)
+- MC-BEVRO: Multi-Camera Bird Eye View Road Occupancy Detection for Traffic Monitoring (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.11287)
+- OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving (ARxiv 2025) [[Paper]](https://arxiv.org/abs/2502.14235)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -785,6 +788,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - A Survey of World Models for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.11260)
 - HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation (Arxiv 2025) [[paper]](https://arxiv.org/abs/2501.14729) [[Paper]](https://github.com/LMD0311/HERMES)
 - SSF: Sparse Long-Range Scene Flow for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.17821)
+- V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.09980)
+- MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.11663)
+- The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.10498)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
@@ -870,3 +876,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2412.01407)
 - Joint Perception and Prediction for Autonomous Driving: A Survey (Arxiv 2024) [[paper]](Joint Perception and Prediction for Autonomous Driving: A Survey)
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.14605)
+- Range and Bird’s Eye View Fused Cross-Modal Visual Place Recognition (Arxiv 2025) [[paper]](https://arxiv.org/pdf/2502.11742)
+- RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.14792)
