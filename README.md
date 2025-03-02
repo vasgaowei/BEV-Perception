@@ -623,6 +623,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.04981)
 - MC-BEVRO: Multi-Camera Bird Eye View Road Occupancy Detection for Traffic Monitoring (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.11287)
 - OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving (ARxiv 2025) [[Paper]](https://arxiv.org/abs/2502.14235)
+- LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation (Arxiv 2025) [[Paper]]](https://arxiv.org/abs/2502.15438)
+- OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.15180)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -791,6 +793,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.09980)
 - MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.11663)
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.10498)
+- Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.14917)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
