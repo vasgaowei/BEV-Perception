@@ -311,6 +311,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Fast and Efficient Transformer-based Method for Bird’s Eye View Instance Prediction (IEEE ITSC 2024) [[Paper]](https://arxiv.org/pdf/2411.06851) [[Github]](https://github.com/miguelag99/Efficient-Instance-Prediction)
 - Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation (WACV 2025) [[paper]](https://arxiv.org/abs/2412.01595)
 - Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2 (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.08118)
+- SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.20077)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
