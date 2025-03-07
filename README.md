@@ -798,6 +798,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.10498)
 - Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.14917)
 - VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.18042)
+- VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.20108)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
