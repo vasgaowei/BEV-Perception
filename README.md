@@ -313,6 +313,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2 (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.08118)
 - SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.20077)
 - BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.19694)
+- Dur360BEV: A Real-world 360-degree Single Camera Dataset and Benchmark for Bird-Eye View Mapping in Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.00675)
+- TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.02578) [[Github]](https://github.com/krabs-H/TS-CGNet)
+- BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation (Arxiv 2025) [[Paper[[(BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -628,6 +631,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation (Arxiv 2025) [[Paper]]](https://arxiv.org/abs/2502.15438)
 - OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.15180)
 - GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.17288)
+- H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision (ICRA 2025) [[Paper]](https://arxiv.org/abs/2503.04059)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -799,6 +803,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.14917)
 - VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.18042)
 - VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.20108)
+- FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering (Arxiv 2025) [[Paper]](FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering)
+- BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.03074)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
