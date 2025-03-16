@@ -316,6 +316,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Dur360BEV: A Real-world 360-degree Single Camera Dataset and Benchmark for Bird-Eye View Mapping in Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.00675)
 - TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.02578) [[Github]](https://github.com/krabs-H/TS-CGNet)
 - BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation (Arxiv 2025) [[Paper[[(BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation)
+- HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.06821)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -470,6 +471,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.08974)
 - Leveraging V2X for Collaborative HD Maps Construction Using Scene Graph Generation (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2502.10127)
 - FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.05492) [[Github]](https://github.com/hht1996ok/FastMap)
+- Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07485)
+- HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07168)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -807,6 +810,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering (Arxiv 2025) [[Paper]](FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering)
 - BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.03074)
 - GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.05689) [[Github]](https://github.com/YvanYin/GoalFlow)
+- AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07608) [[Github]](https://github.com/hustvl/AlphaDrive)
+- CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07234)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
