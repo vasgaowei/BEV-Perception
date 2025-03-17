@@ -636,6 +636,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.15180)
 - GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.17288)
 - H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision (ICRA 2025) [[Paper]](https://arxiv.org/abs/2503.04059)
+- TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08485)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -812,6 +813,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.05689) [[Github]](https://github.com/YvanYin/GoalFlow)
 - AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07608) [[Github]](https://github.com/hustvl/AlphaDrive)
 - CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07234)
+- CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08683) [[Github]](https://github.com/cxliu0314/CoLMDriver)
+- HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.08612)
+- DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07656)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
