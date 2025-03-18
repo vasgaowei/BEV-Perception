@@ -79,6 +79,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement (Arxiv 2024) [[Paper]](https://arxiv.org/pdf/2408.07999)
 - SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.05292)
 - Timealign: A Multi-Modal Object Detection Method For Time Misalignment Fusing In Autonomous Driving (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.10033)
+- Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection (ICRA 2025) [[Paper]](https://arxiv.org/abs/2503.10579)
 #### Lidar
 - MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection (AAAI 2023)[[paper]](https://arxiv.org/pdf/2212.00442.pdf)[[Github]](https://github.com/HYjhkoh/MGTANet)
 - PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2308.03982.pdf)
@@ -637,6 +638,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2502.17288)
 - H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision (ICRA 2025) [[Paper]](https://arxiv.org/abs/2503.04059)
 - TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08485)
+- OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10605) [[Github]](https://github.com/ika-rwth-aachen/OCCUQ)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -816,6 +818,12 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08683) [[Github]](https://github.com/cxliu0314/CoLMDriver)
 - HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.08612)
 - DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07656)
+- SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.09594)
+- Post-interactive Multimodal Trajectory Prediction for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.09366)
+- Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.09464)
+- DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10621) [[Github]](https://github.com/ayesha-ishaq/DriveLMM-o1)
+- Unlock the Power of Unlabeled Data in Language Driving Model (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10586)
+- Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.10434)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
