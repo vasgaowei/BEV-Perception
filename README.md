@@ -207,6 +207,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 -  Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting (Arxiv 2024) [[paper]](https://arxiv.org/pdf/2412.07768)
 -  HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.18884)
 -  TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation (Arxiv 2024) [[paper]](https://arxiv.org/abs/2412.20911) [[Github]](https://github.com/Public-BOTs/TiGDistill-BEV)
+-  DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.11122)
 ### BEV Segmentation
 #### Lidar Camera
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images (Axxiv 2023) [[Paper]](https://arxiv.org/pdf/2206.01256.pdf) [[Github]](https://github.com/megvii-research/PETR)
@@ -824,6 +825,9 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10621) [[Github]](https://github.com/ayesha-ishaq/DriveLMM-o1)
 - Unlock the Power of Unlabeled Data in Language Driving Model (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10586)
 - Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.10434)
+- DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11265)
+- Active Learning from Scene Embeddings for End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11062)
+- Centaur: Robust End-to-End Autonomous Driving with Test-Time Training (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11650)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
@@ -910,4 +914,6 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Joint Perception and Prediction for Autonomous Driving: A Survey (Arxiv 2024) [[paper]](Joint Perception and Prediction for Autonomous Driving: A Survey)
 - 3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2501.14605)
 - Range and Bird’s Eye View Fused Cross-Modal Visual Place Recognition (Arxiv 2025) [[paper]](https://arxiv.org/pdf/2502.11742)
+- Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.11091)
+- BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11372) [[Github]](https://github.com/nubot-nudt/BEVDiffLoc)
 - RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.14792)
