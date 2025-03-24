@@ -475,6 +475,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.05492) [[Github]](https://github.com/hht1996ok/FastMap)
 - Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07485)
 - HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.07168)
+- AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.13430)
 ### Lanegraph
 #### Monocular
 - Lane Graph Estimation for Scene Understanding in Urban Driving (IEEE RAL 2021) [[Paper]](https://arxiv.org/abs/2105.00195)
@@ -640,6 +641,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision (ICRA 2025) [[Paper]](https://arxiv.org/abs/2503.04059)
 - TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08485)
 - OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10605) [[Github]](https://github.com/ika-rwth-aachen/OCCUQ)
+- L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model (ARxiv 2025) [[Paper]](https://arxiv.org/abs/2503.12369) [[Project]](https://studyingfufu.github.io/L2COcc/) [[Github]](https://github.com/StudyingFuFu/L2COcc/tree/master)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
@@ -828,6 +830,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11265)
 - Active Learning from Scene Embeddings for End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11062)
 - Centaur: Robust End-to-End Autonomous Driving with Test-Time Training (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11650)
+- InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.13047) [[Paper]](https://github.com/songruiqi/InsightDrive)
+- Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.12820)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
