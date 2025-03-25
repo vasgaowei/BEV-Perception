@@ -319,6 +319,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.02578) [[Github]](https://github.com/krabs-H/TS-CGNet)
 - BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation (Arxiv 2025) [[Paper[[(BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation)
 - HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.06821)
+- MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations (ICLR 2025) [[Paper]](https://arxiv.org/abs/2503.13858)
 ### Perception Prediction Planning
 #### Monocular
 - Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning (WACV 2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf)
@@ -832,6 +833,10 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Centaur: Robust End-to-End Autonomous Driving with Test-Time Training (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11650)
 - InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.13047) [[Paper]](https://github.com/songruiqi/InsightDrive)
 - Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.12820)
+- Tracking Meets Large Multimodal Models for Driving Scenario Understanding (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.14498)
+- ChatBEV: A Visual Language Model that Understands BEV Maps (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.13938)
+- RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.13861)
+- Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning (CVPR 2025) [[Paper]](https://arxiv.org/abs/2503.14182)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
