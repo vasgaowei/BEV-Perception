@@ -643,6 +643,8 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.08485)
 - OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.10605) [[Github]](https://github.com/ika-rwth-aachen/OCCUQ)
 - L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model (ARxiv 2025) [[Paper]](https://arxiv.org/abs/2503.12369) [[Project]](https://studyingfufu.github.io/L2COcc/) [[Github]](https://github.com/StudyingFuFu/L2COcc/tree/master)
+- 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation (CVPR 2025) [[Paper]](https://arxiv.org/abs/2503.15185)
+- SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.16399)
 #### Occupancy Challenge
 - FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation (CVPR 2023 3D Occupancy Prediction Challenge WorkShop) [[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[Github]](https://github.com/NVlabs/FB-BEV)
 - Separated RoadTopoFormer (Arxiv 2023) [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
