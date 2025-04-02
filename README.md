@@ -839,6 +839,7 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - ChatBEV: A Visual Language Model that Understands BEV Maps (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.13938)
 - RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving (Arxiv 2025) [[paper]](https://arxiv.org/abs/2503.13861)
 - Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning (CVPR 2025) [[Paper]](https://arxiv.org/abs/2503.14182)
+- GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.20523)
 ### Other
 - LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2501.04005) [[Github]](https://ldkong.com/LargeAD)
 - X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios (Arxiv 2024) [[Paper]](https://arxiv.org/abs/2411.01123) [[Github]](https://arxiv.org/abs/2411.01123)
