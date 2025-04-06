@@ -928,4 +928,5 @@ This is a repository for Bird's Eye View Perception, including 3D object detecti
 - Range and Bird’s Eye View Fused Cross-Modal Visual Place Recognition (Arxiv 2025) [[paper]](https://arxiv.org/pdf/2502.11742)
 - Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.11091)
 - BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model (Arxiv 2025) [[Paper]](https://arxiv.org/abs/2503.11372) [[Github]](https://github.com/nubot-nudt/BEVDiffLoc)
+- Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments (Arxiv 2025) [[Paper]](https://arxiv.org/pdf/2503.22496) [[Project]](https://princeton-computational-imaging.github.io/scenario-dreamer/) [[Github]](https://github.com/princeton-computational-imaging/scenario-dreamer)
 - RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation (Arxiv 2025) [[paper]](https://arxiv.org/abs/2502.14792)
